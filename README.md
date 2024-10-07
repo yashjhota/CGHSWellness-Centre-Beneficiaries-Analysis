@@ -1,4 +1,5 @@
 # CGHS Wellness Centre Beneficiaries Dashboard 📊
+- ![](CGHS.png)
 
 This dashboard provides an insightful overview of the beneficiaries at CGHS (Central Government Health Scheme) Wellness Centres. It covers key metrics like:
 
