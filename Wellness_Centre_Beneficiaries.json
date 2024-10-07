@@ -1,0 +1,7712 @@
+[
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "VEJALPUR",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "Vadodara",
+        "card_type": "Pensioner",
+        "count": "4370"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "ASHRAM ROAD",
+        "card_type": "Freedom Fighter",
+        "count": "17"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "ASHRAM ROAD",
+        "card_type": "Serving",
+        "count": "8557"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "VEJALPUR",
+        "card_type": "Pensioner",
+        "count": "1854"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "NARODA",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "NARODA",
+        "card_type": "Pensioner",
+        "count": "3793"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "NARODA",
+        "card_type": "Ex MP",
+        "count": "9"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "LALDARWAJA",
+        "card_type": "Pensioner",
+        "count": "1563"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "Banashankari",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA C. V. RAMAN NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA GANGENAHALLI",
+        "card_type": "Lok Sabha MP",
+        "count": "2"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA GANGENAHALLI",
+        "card_type": "Ex MP",
+        "count": "33"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA DOMLUR",
+        "card_type": "Freedom Fighter",
+        "count": "4"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA KORAMANGALA",
+        "card_type": "Serving",
+        "count": "10906"
+    },
+    {
+        "cityName": "BHOPAL",
+        "wellnessCentreName": "VASANT KUNJ BP – 2",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "BHOPAL",
+        "wellnessCentreName": "VASANT KUNJ BP – 2",
+        "card_type": "Serving",
+        "count": "5184"
+    },
+    {
+        "cityName": "BHUBANESHWAR",
+        "wellnessCentreName": "OLD AG COLONY",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "BHUBANESHWAR",
+        "wellnessCentreName": "Air India",
+        "card_type": "Pensioner",
+        "count": "27"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "CHD Sec 45",
+        "card_type": "Lok Sabha MP",
+        "count": "5"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "CHD Sec 45",
+        "card_type": "Serving",
+        "count": "19445"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "AMBALA",
+        "card_type": "Pensioner",
+        "count": "7078"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "MEENAMBAKKAM",
+        "card_type": "Pensioner",
+        "count": "10886"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "NANDAMBAKKAM",
+        "card_type": "Pensioner",
+        "count": "2093"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "NUNGAMBAKKAM",
+        "card_type": "Ex MP",
+        "count": "18"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "ROYAPURAM",
+        "card_type": "Freedom Fighter",
+        "count": "162"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "TRICHY",
+        "card_type": "Ex MP",
+        "count": "5"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "TIRUNELVELI",
+        "card_type": "Pensioner",
+        "count": "1977"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "VEPERY",
+        "card_type": "Freedom Fighter",
+        "count": "30"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "VEPERY",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "ADYAR",
+        "card_type": "Pensioner",
+        "count": "5750"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "ANNA NAGAR",
+        "card_type": "Serving",
+        "count": "11717"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "ANNA NAGAR",
+        "card_type": "Ex MP",
+        "count": "73"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "AVADI",
+        "card_type": "Pensioner",
+        "count": "17264"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "AVADI",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "K K NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "51"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "K K NAGAR",
+        "card_type": "Pensioner",
+        "count": "13025"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "K K NAGAR",
+        "card_type": "Ex MP",
+        "count": "25"
+    },
+    {
+        "cityName": "DEHRADUN",
+        "wellnessCentreName": "DEHRADUN",
+        "card_type": "Pensioner",
+        "count": "14803"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "RAJOURI GARDEN",
+        "card_type": "Serving",
+        "count": "10493"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "RAJOURI GARDEN",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SHAKUR BASTI",
+        "card_type": "Jaurnalist",
+        "count": "5"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "JANAKPURI-I",
+        "card_type": "Jaurnalist",
+        "count": "162"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LAXMI NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "FARIDABAD",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MUNIRKA",
+        "card_type": "Jaurnalist",
+        "count": "50"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KASTURBA NAGAR-II",
+        "card_type": "Pensioner",
+        "count": "552"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GURUGRAM SECTOR 5",
+        "card_type": "Serving",
+        "count": "30101"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "JANAKPURI-II",
+        "card_type": "Serving",
+        "count": "2909"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KALI BARI",
+        "card_type": "Jaurnalist",
+        "count": "6"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MAYUR VIHAR TRILOK KUNJ",
+        "card_type": "Freedom Fighter",
+        "count": "6"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PUSHP VIHAR(PUSHP VIHAR SECTOR 4) ",
+        "card_type": "Pensioner",
+        "count": "8400"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VIVEK VIHAR",
+        "card_type": "Serving",
+        "count": "3644"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PASCHIM VIHAR",
+        "card_type": "Pensioner",
+        "count": "13016"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PITAMPURA",
+        "card_type": "Serving",
+        "count": "13819"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SUNDER VIHAR ",
+        "card_type": "Freedom Fighter",
+        "count": "5"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "YAMUNA VIHAR",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "YAMUNA VIHAR",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NOIDA ",
+        "card_type": "Serving",
+        "count": "17791"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ROHINI",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ROHINI",
+        "card_type": "Jaurnalist",
+        "count": "49"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ROHINI Sec 16",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LODHI ROAD-I (ALI GANJ)",
+        "card_type": "Jaurnalist",
+        "count": "29"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GURUGRAM SECTOR 55",
+        "card_type": "Freedom Fighter",
+        "count": "9"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GURUGRAM SECTOR 55",
+        "card_type": "Jaurnalist",
+        "count": "7"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GURUGRAM SECTOR 55",
+        "card_type": "Ex MP",
+        "count": "20"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NOIDA SECTOR 82",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VASANT VIHAR",
+        "card_type": "Serving",
+        "count": "4427"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VASANT VIHAR",
+        "card_type": "Ex MP",
+        "count": "5"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GOLE MARKET ",
+        "card_type": "Pensioner",
+        "count": "3895"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GOLE MARKET ",
+        "card_type": "Serving",
+        "count": "13141"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LODHI ROAD II",
+        "card_type": "Pensioner",
+        "count": "3749"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DWARKA SECTOR 23",
+        "card_type": "Pensioner",
+        "count": "5210"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ZILLA SAINIK BOARD FARIDABAD",
+        "card_type": "Pensioner",
+        "count": "6126"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ZILLA SAINIK BOARD FARIDABAD",
+        "card_type": "Serving",
+        "count": "4791"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "Narela",
+        "card_type": "Pensioner",
+        "count": "1480"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "Pratap Vihar",
+        "card_type": "Pensioner",
+        "count": "140"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LAJPATNAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LAJPATNAGAR",
+        "card_type": "Pensioner",
+        "count": "3125"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LAJPATNAGAR",
+        "card_type": "Serving",
+        "count": "3251"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SAROJINI NAGAR II",
+        "card_type": "Pensioner",
+        "count": "245"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MOTIBAGH",
+        "card_type": "Serving",
+        "count": "7444"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MOTIBAGH",
+        "card_type": "Ex MP",
+        "count": "5"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VIKAS PURI",
+        "card_type": "Pensioner",
+        "count": "8430"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PUSA ROAD",
+        "card_type": "Jaurnalist",
+        "count": "16"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PUSA ROAD",
+        "card_type": "Serving",
+        "count": "1950"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PANDARA ROAD ",
+        "card_type": "Lok Sabha MP",
+        "count": "3"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PANDARA ROAD ",
+        "card_type": "Ex MP",
+        "count": "152"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PATEL NAGAR-I(EAST)",
+        "card_type": "Serving",
+        "count": "772"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NETAJI NAGAR",
+        "card_type": "Jaurnalist",
+        "count": "4"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GREATER NOIDA ",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KASTURBA NAGAR-I",
+        "card_type": "Serving",
+        "count": "11215"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NANAK PURA",
+        "card_type": "Jaurnalist",
+        "count": "19"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DELHI CANTONMENT  ",
+        "card_type": "Serving",
+        "count": "15903"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NAUROJI NAGAR",
+        "card_type": "Jaurnalist",
+        "count": "9"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NORTH AVENUE",
+        "card_type": "Freedom Fighter",
+        "count": "15"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NORTH AVENUE",
+        "card_type": "Jaurnalist",
+        "count": "20"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NORTH AVENUE",
+        "card_type": "Lok Sabha MP",
+        "count": "10"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SOUTH AVENUE",
+        "card_type": "Ex MP",
+        "count": "703"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "TELEGRAPH LANE",
+        "card_type": "Freedom Fighter",
+        "count": "10"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "TELEGRAPH LANE",
+        "card_type": "Jaurnalist",
+        "count": "36"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "TELEGRAPH LANE",
+        "card_type": "Rajya Sabha MP",
+        "count": "44"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "TELEGRAPH LANE",
+        "card_type": "Ex MP",
+        "count": "193"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DWARKA SECTOR 9",
+        "card_type": "Serving",
+        "count": "63011"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SHRINIVASPURI",
+        "card_type": "Serving",
+        "count": "13685"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PATEL NAGAR-II(WEST)",
+        "card_type": "Serving",
+        "count": "7288"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ANDREWS GANJ",
+        "card_type": "Pensioner",
+        "count": "2562"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "JUNG PURA",
+        "card_type": "Pensioner",
+        "count": "1877"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MALVIYA NAGAR",
+        "card_type": "Pensioner",
+        "count": "4008"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KALKA  JI - I",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DR Z.H ROAD",
+        "card_type": "Jaurnalist",
+        "count": "25"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DR Z.H ROAD",
+        "card_type": "Rajya Sabha MP",
+        "count": "24"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DR Z.H ROAD",
+        "card_type": "Ex MP",
+        "count": "60"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NEW RAJINDER NAGAR",
+        "card_type": "Pensioner",
+        "count": "2316"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NEW RAJINDER NAGAR",
+        "card_type": "Serving",
+        "count": "3169"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NEW RAJINDER NAGAR",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-II",
+        "card_type": "Jaurnalist",
+        "count": "9"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MAYA PURI (HARI NAGAR)",
+        "card_type": "Pensioner",
+        "count": "6887"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MAYA PURI (HARI NAGAR)",
+        "card_type": "Serving",
+        "count": "7547"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PAHARGANJ",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PAHARGANJ",
+        "card_type": "Pensioner",
+        "count": "1716"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 3",
+        "card_type": "Serving",
+        "count": "17530"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 3",
+        "card_type": "Ex MP",
+        "count": "12"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "AiZwal",
+        "card_type": "Ex MP",
+        "count": "7"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "Gangtok",
+        "card_type": "Serving",
+        "count": "2527"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "DIBRUGARH",
+        "card_type": "Serving",
+        "count": "2500"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "SILCHAR",
+        "card_type": "Pensioner",
+        "count": "485"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "Itanagar",
+        "card_type": "Serving",
+        "count": "241"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 5",
+        "card_type": "Serving",
+        "count": "5889"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "KANCHANBAGH",
+        "card_type": "Serving",
+        "count": "22795"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "VISAKHAPATNAM",
+        "card_type": "Ex MP",
+        "count": "14"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "A. G COLONY",
+        "card_type": "Pensioner",
+        "count": "9542"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "KAKATIYA NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "29"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "KAKATIYA NAGAR",
+        "card_type": "Serving",
+        "count": "8254"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "DILSUKHNAGAR",
+        "card_type": "Pensioner",
+        "count": "7106"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "TARNAKA",
+        "card_type": "Pensioner",
+        "count": "11413"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "HUMAYUN NAGAR",
+        "card_type": "Ex MP",
+        "count": "5"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "BEGUMPET",
+        "card_type": "Freedom Fighter",
+        "count": "3236"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "HIMAYAT NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "383"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Head Post Office Compound",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Vaidyanathan Nagar",
+        "card_type": "Serving",
+        "count": "7175"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Vaidyanathan Nagar",
+        "card_type": "Pensioner",
+        "count": "19576"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Adhartal",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "JANTA COLONY",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "BAJAJ NAGAR",
+        "card_type": "Serving",
+        "count": "5397"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "BANI PARK",
+        "card_type": "Pensioner",
+        "count": "9594"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "BANI PARK",
+        "card_type": "Serving",
+        "count": "8675"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "JYOTI NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "VIDHYADHAR NAGAR",
+        "card_type": "Pensioner",
+        "count": "5311"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "KOTA",
+        "card_type": "Freedom Fighter",
+        "count": "5"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "KOTA",
+        "card_type": "Pensioner",
+        "count": "870"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "GWALIOR WC",
+        "card_type": "Serving",
+        "count": "5127"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "AZAD NAGAR",
+        "card_type": "Pensioner",
+        "count": "3265"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "AZAD NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "SAKET NAGAR",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "CIVIL LINES",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SILIGURI",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "JALPAIGURI",
+        "card_type": "Pensioner",
+        "count": "853"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SALT LAKE  IC BLOCK DISPENSARY",
+        "card_type": "Serving",
+        "count": "6986"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SALT LAKE  IC BLOCK DISPENSARY",
+        "card_type": "Ex MP",
+        "count": "17"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "LAKE AREA",
+        "card_type": "Freedom Fighter",
+        "count": "112"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "LAKE AREA",
+        "card_type": "Serving",
+        "count": "2780"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "Ishapore",
+        "card_type": "Pensioner",
+        "count": "8252"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "DOVER LANE",
+        "card_type": "Freedom Fighter",
+        "count": "315"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "DOVER LANE",
+        "card_type": "Serving",
+        "count": "5820"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "NARKELDANGA",
+        "card_type": "Ex MP",
+        "count": "6"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SHYAMBAZAR",
+        "card_type": "Pensioner",
+        "count": "16290"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "BHOWANIPUR KALIGHAT",
+        "card_type": "Serving",
+        "count": "1246"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "AIIH&PH Campus CR Avenue",
+        "card_type": "Freedom Fighter",
+        "count": "29"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "AIIH&PH Campus CR Avenue",
+        "card_type": "Serving",
+        "count": "1703"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "BELVEDERE",
+        "card_type": "Pensioner",
+        "count": "2217"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "BBD BAG ",
+        "card_type": "Freedom Fighter",
+        "count": "649"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "BBD BAG ",
+        "card_type": "Pensioner",
+        "count": "14707"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "LAKE TOWN",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "TOLLYGUNJ",
+        "card_type": "Serving",
+        "count": "5523"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SALT LAKE  EB",
+        "card_type": "Freedom Fighter",
+        "count": "39"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "AGRA",
+        "card_type": "Pensioner",
+        "count": "2804"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Aishbagh",
+        "card_type": "Pensioner",
+        "count": "725"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "PMG Office Hazaratganj",
+        "card_type": "Ex MP",
+        "count": "15"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow4",
+        "card_type": "Pensioner",
+        "count": "3209"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "GOL Market",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow6",
+        "card_type": "Pensioner",
+        "count": "6017"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "GOL Market",
+        "card_type": "Pensioner",
+        "count": "2188"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow 1",
+        "card_type": "Pensioner",
+        "count": "7508"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow 1",
+        "card_type": "Serving",
+        "count": "10566"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow 1",
+        "card_type": "Ex MP",
+        "count": "45"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow2",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "Kanker Khera Meerut",
+        "card_type": "Serving",
+        "count": "7069"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "Lekha Nagar Meerut",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "NASHIK",
+        "card_type": "Pensioner",
+        "count": "8139"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "BANDRA",
+        "card_type": "Pensioner",
+        "count": "69"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "BYCULLA",
+        "card_type": "Pensioner",
+        "count": "1582"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "BYCULLA",
+        "card_type": "Serving",
+        "count": "2677"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "DEONAR",
+        "card_type": "Serving",
+        "count": "4835"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "MULUND",
+        "card_type": "Serving",
+        "count": "2851"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "PAREL ",
+        "card_type": "Jaurnalist",
+        "count": "1"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "CGO Polyclinic",
+        "card_type": "Serving",
+        "count": "1"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "WORLI",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "WORLI",
+        "card_type": "Pensioner",
+        "count": "2837"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "THAKURLI",
+        "card_type": "Pensioner",
+        "count": "6730"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "SANTAKRUZ",
+        "card_type": "Pensioner",
+        "count": "8213"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "PANDRI RAIPUR",
+        "card_type": "Serving",
+        "count": "3135"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "CHINDWARA ROAD",
+        "card_type": "Pensioner",
+        "count": "9"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "KATOL ROAD",
+        "card_type": "Pensioner",
+        "count": "6328"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "Wadi",
+        "card_type": "Pensioner",
+        "count": "3579"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "Wadi",
+        "card_type": "Serving",
+        "count": "196"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "CIVIL LINES",
+        "card_type": "Ex MP",
+        "count": "8"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "SEMINARY HILLS",
+        "card_type": "Serving",
+        "count": "5865"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "PANCH PAOLI",
+        "card_type": "Pensioner",
+        "count": "6462"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "ITWARI",
+        "card_type": "Ex MP",
+        "count": "9"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "MEDICAL SQUARE",
+        "card_type": "Serving",
+        "count": "2451"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "SHANKAR NAGAR",
+        "card_type": "Pensioner",
+        "count": "5418"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "SHANKAR NAGAR",
+        "card_type": "Serving",
+        "count": "2608"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "SANKAR DARA",
+        "card_type": "Pensioner",
+        "count": "5244"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "TIKRAPARA RAIPUR",
+        "card_type": "Serving",
+        "count": "1947"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "MUZAFFARPUR",
+        "card_type": "Serving",
+        "count": "2404"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "GAYA",
+        "card_type": "Serving",
+        "count": "3900"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "CHHAPRA",
+        "card_type": "Pensioner",
+        "count": "209"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "DARBHANGA",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "SURYANCHAL BHANDRA GHAT",
+        "card_type": "Serving",
+        "count": "1704"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "Salimpur Dumara,Ashiyana Nagar",
+        "card_type": "Ex MP",
+        "count": "5"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "BARALAL PUR VARANASI",
+        "card_type": "Pensioner",
+        "count": "2119"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Leader Road",
+        "card_type": "Serving",
+        "count": "3102"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Leader Road",
+        "card_type": "Pensioner",
+        "count": "2943"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "New Katra",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Kalyani Devi",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Kalyani Devi",
+        "card_type": "Pensioner",
+        "count": "2608"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Drummond",
+        "card_type": "Pensioner",
+        "count": "3052"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "MANGALWAR PETH",
+        "card_type": "Freedom Fighter",
+        "count": "51"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "PUNE CAMP",
+        "card_type": "Serving",
+        "count": "4246"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "PUNE CAMP",
+        "card_type": "Freedom Fighter",
+        "count": "19"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "PHULENAGAR, YERWADA",
+        "card_type": "Serving",
+        "count": "7943"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "AKURDI ",
+        "card_type": "Serving",
+        "count": "5025"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "PUNE 05",
+        "card_type": "Serving",
+        "count": "7217"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "PUNE 05",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "RANGE HILLS, KIRKEE",
+        "card_type": "Serving",
+        "count": "4055"
+    },
+    {
+        "cityName": "RANCHI",
+        "wellnessCentreName": "DHANBAD",
+        "card_type": "Serving",
+        "count": "2448"
+    },
+    {
+        "cityName": "RANCHI",
+        "wellnessCentreName": "Air India",
+        "card_type": "Pensioner",
+        "count": "4"
+    },
+    {
+        "cityName": "RANCHI",
+        "wellnessCentreName": "KANTA TOLI",
+        "card_type": "Freedom Fighter",
+        "count": "18"
+    },
+    {
+        "cityName": "SHILLONG",
+        "wellnessCentreName": "Imphal",
+        "card_type": "Serving",
+        "count": "5776"
+    },
+    {
+        "cityName": "SHILLONG",
+        "wellnessCentreName": "AGARTALA",
+        "card_type": "Pensioner",
+        "count": "1155"
+    },
+    {
+        "cityName": "SHILLONG",
+        "wellnessCentreName": "SHILLONG",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "CALICUT",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "CALICUT",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "TRIVANDRUM 2",
+        "card_type": "Ex MP",
+        "count": "18"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "Vadodara",
+        "card_type": "Serving",
+        "count": "11049"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "VEJALPUR",
+        "card_type": "Serving",
+        "count": "2174"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "NAVRANGPURA",
+        "card_type": "Serving",
+        "count": "5848"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "PRAGATINAGAR, NARANPURA",
+        "card_type": "Freedom Fighter",
+        "count": "5"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "PRAGATINAGAR, NARANPURA",
+        "card_type": "Serving",
+        "count": "7018"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "PRAGATINAGAR, NARANPURA",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "RAMBAUG,MANINGAR",
+        "card_type": "Serving",
+        "count": "3582"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "HBR",
+        "card_type": "Pensioner",
+        "count": "6173"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "Banashankari",
+        "card_type": "Freedom Fighter",
+        "count": "20"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA SHIVAJINAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "7"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA SHIVAJINAGAR",
+        "card_type": "Serving",
+        "count": "5308"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA C. V. RAMAN NAGAR",
+        "card_type": "Pensioner",
+        "count": "6687"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "HBR",
+        "card_type": "Serving",
+        "count": "5302"
+    },
+    {
+        "cityName": "BHOPAL",
+        "wellnessCentreName": "Air India",
+        "card_type": "Serving",
+        "count": "4"
+    },
+    {
+        "cityName": "BHOPAL",
+        "wellnessCentreName": "JAHANGIRABAD BP – 1",
+        "card_type": "Serving",
+        "count": "11768"
+    },
+    {
+        "cityName": "BHOPAL",
+        "wellnessCentreName": "JAHANGIRABAD BP – 1",
+        "card_type": "Ex MP",
+        "count": "25"
+    },
+    {
+        "cityName": "BHOPAL",
+        "wellnessCentreName": "VASANT KUNJ BP – 2",
+        "card_type": "Ex MP",
+        "count": "12"
+    },
+    {
+        "cityName": "BHOPAL",
+        "wellnessCentreName": "INDORE1",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "BHUBANESHWAR",
+        "wellnessCentreName": " CGHS WC BERHAMPUR",
+        "card_type": "Serving",
+        "count": "1480"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "CHD Sec 45",
+        "card_type": "Pensioner",
+        "count": "31260"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "JAMMU",
+        "card_type": "Serving",
+        "count": "12802"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": " PANCHKULA ",
+        "card_type": "Pensioner",
+        "count": "1249"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "JAMMU",
+        "card_type": "Pensioner",
+        "count": "7085"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "Sanat nagar Srinagar",
+        "card_type": "Pensioner",
+        "count": "410"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "SHIMLA",
+        "card_type": "Pensioner",
+        "count": "2983"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "AMRITSAR",
+        "card_type": "Serving",
+        "count": "5861"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "JAMMU",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "MEENAMBAKKAM",
+        "card_type": "Ex MP",
+        "count": "9"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "NANDAMBAKKAM",
+        "card_type": "Ex MP",
+        "count": "10"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "ROYAPURAM",
+        "card_type": "Pensioner",
+        "count": "2522"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "TRIPLICANE",
+        "card_type": "Freedom Fighter",
+        "count": "4"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "TRIPLICANE",
+        "card_type": "Serving",
+        "count": "2191"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "ROYAPURAM",
+        "card_type": "Serving",
+        "count": "2609"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "TRICHY",
+        "card_type": "Pensioner",
+        "count": "4751"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "TRICHY",
+        "card_type": "Serving",
+        "count": "2704"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "TIRUNELVELI",
+        "card_type": "Ex MP",
+        "count": "9"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "COIMBATORE",
+        "card_type": "Lok Sabha MP",
+        "count": "3"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "COIMBATORE",
+        "card_type": "Pensioner",
+        "count": "4421"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "ADYAR",
+        "card_type": "Ex MP",
+        "count": "32"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "GUINDY",
+        "card_type": "Pensioner",
+        "count": "4554"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "GUINDY",
+        "card_type": "Serving",
+        "count": "3985"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "K K NAGAR",
+        "card_type": "Serving",
+        "count": "9838"
+    },
+    {
+        "cityName": "DEHRADUN",
+        "wellnessCentreName": "CHAKARATA ROAD",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "DEHRADUN",
+        "wellnessCentreName": "DEHRADUN",
+        "card_type": "Ex MP",
+        "count": "8"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-IV",
+        "card_type": "Jaurnalist",
+        "count": "17"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-IV",
+        "card_type": "Pensioner",
+        "count": "4192"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-IV",
+        "card_type": "Ex MP",
+        "count": "9"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "RAJOURI GARDEN",
+        "card_type": "Freedom Fighter",
+        "count": "4"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SUBZI MANDI",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SUBZI MANDI",
+        "card_type": "Pensioner",
+        "count": "3438"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KINGSWAY CAMP",
+        "card_type": "Freedom Fighter",
+        "count": "7"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KINGSWAY CAMP",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ASHOK VIHAR",
+        "card_type": "Jaurnalist",
+        "count": "12"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ASHOK VIHAR",
+        "card_type": "Pensioner",
+        "count": "4374"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SADIQ NAGAR",
+        "card_type": "Jaurnalist",
+        "count": "24"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "TRI NAGAR",
+        "card_type": "Serving",
+        "count": "2872"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MEHRAULI BADARPUR ROAD (M B ROAD)",
+        "card_type": "Ex MP",
+        "count": "10"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LAXMI NAGAR",
+        "card_type": "Ex MP",
+        "count": "9"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "FARIDABAD",
+        "card_type": "Serving",
+        "count": "18116"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KASTURBA NAGAR-II",
+        "card_type": "Serving",
+        "count": "1557"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GURUGRAM SECTOR 5",
+        "card_type": "Pensioner",
+        "count": "31203"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MAYUR VIHAR TRILOK KUNJ",
+        "card_type": "Lok Sabha MP",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MAYUR VIHAR TRILOK KUNJ",
+        "card_type": "Serving",
+        "count": "20566"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PUSHP VIHAR(PUSHP VIHAR SECTOR 4) ",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PUSHP VIHAR(PUSHP VIHAR SECTOR 4) ",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PASCHIM VIHAR",
+        "card_type": "Jaurnalist",
+        "count": "41"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PITAMPURA",
+        "card_type": "Jaurnalist",
+        "count": "28"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PITAMPURA",
+        "card_type": "Pensioner",
+        "count": "7269"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SUNDER VIHAR ",
+        "card_type": "Jaurnalist",
+        "count": "24"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "YAMUNA VIHAR",
+        "card_type": "Pensioner",
+        "count": "18172"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "YAMUNA VIHAR",
+        "card_type": "Serving",
+        "count": "66431"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NOIDA ",
+        "card_type": "Ex MP",
+        "count": "8"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ROHINI",
+        "card_type": "Serving",
+        "count": "35274"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DILSHAD GARDEN",
+        "card_type": "Jaurnalist",
+        "count": "76"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SHALIMAR BAGH",
+        "card_type": "Jaurnalist",
+        "count": "36"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SHALIMAR BAGH",
+        "card_type": "Pensioner",
+        "count": "4662"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ROHINI Sec 16",
+        "card_type": "Serving",
+        "count": "24449"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SARITA VIHAR",
+        "card_type": "Pensioner",
+        "count": "5737"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VASANT KUNJ",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VASANT KUNJ",
+        "card_type": "Rajya Sabha MP",
+        "count": "6"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SUPREME COURT",
+        "card_type": "Serving",
+        "count": "14"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SHAHIBABAD",
+        "card_type": "Pensioner",
+        "count": "5412"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NOIDA SECTOR 82",
+        "card_type": "Pensioner",
+        "count": "5572"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NOIDA SECTOR 82",
+        "card_type": "Serving",
+        "count": "3839"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VASANT VIHAR",
+        "card_type": "Pensioner",
+        "count": "757"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "INDIRAPURAM",
+        "card_type": "Jaurnalist",
+        "count": "407"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "INDIRAPURAM",
+        "card_type": "Ex MP",
+        "count": "6"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NARAINA",
+        "card_type": "Pensioner",
+        "count": "1847"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GOLE MARKET ",
+        "card_type": "Jaurnalist",
+        "count": "23"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GOLE MARKET ",
+        "card_type": "Ex MP",
+        "count": "13"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LODHI ROAD II",
+        "card_type": "Serving",
+        "count": "8571"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LODHI ROAD II",
+        "card_type": "Ex MP",
+        "count": "6"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MAYUR VIHAR PH II",
+        "card_type": "Jaurnalist",
+        "count": "49"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SONIPAT",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SONIPAT",
+        "card_type": "Pensioner",
+        "count": "7676"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "Narela",
+        "card_type": "Serving",
+        "count": "5651"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LAJPATNAGAR",
+        "card_type": "Jaurnalist",
+        "count": "33"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LAJPATNAGAR",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LAXMIBAI NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LAXMIBAI NAGAR",
+        "card_type": "Jaurnalist",
+        "count": "14"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LAXMIBAI NAGAR",
+        "card_type": "Pensioner",
+        "count": "4089"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LAXMIBAI NAGAR",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MOTIBAGH",
+        "card_type": "Pensioner",
+        "count": "3726"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KAROLBAGH",
+        "card_type": "Pensioner",
+        "count": "66"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VIKAS PURI",
+        "card_type": "Jaurnalist",
+        "count": "23"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DEV NAGAR",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PATEL NAGAR-I(EAST)",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NETAJI NAGAR",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GREATER NOIDA ",
+        "card_type": "Serving",
+        "count": "26061"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "CHANKAYA PURI",
+        "card_type": "Pensioner",
+        "count": "1484"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "CHANKAYA PURI",
+        "card_type": "Ex MP",
+        "count": "9"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KASTURBA NAGAR-I",
+        "card_type": "Rajya Sabha MP",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KASTURBA NAGAR-I",
+        "card_type": "Ex MP",
+        "count": "7"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "TILAK NAGAR",
+        "card_type": "Serving",
+        "count": "9968"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PRESIDENTS ESTATE",
+        "card_type": "Pensioner",
+        "count": "1133"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PRESIDENTS ESTATE",
+        "card_type": "Serving",
+        "count": "3140"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "CAG BUILDING",
+        "card_type": "Serving",
+        "count": "185"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NAUROJI NAGAR",
+        "card_type": "Pensioner",
+        "count": "451"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NORTH AVENUE",
+        "card_type": "Serving",
+        "count": "3283"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SOUTH AVENUE",
+        "card_type": "Jaurnalist",
+        "count": "8"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SOUTH AVENUE",
+        "card_type": "Lok Sabha MP",
+        "count": "7"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "TELEGRAPH LANE",
+        "card_type": "Pensioner",
+        "count": "1023"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SAROJINI NAGAR MARKET",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PATEL NAGAR-II(WEST)",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-I",
+        "card_type": "Pensioner",
+        "count": "3702"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DR Z.H ROAD",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DR Z.H ROAD",
+        "card_type": "Serving",
+        "count": "2289"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-II",
+        "card_type": "Pensioner",
+        "count": "2528"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "HAUZ KHAS",
+        "card_type": "Serving",
+        "count": "8074"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PAHARGANJ",
+        "card_type": "Jaurnalist",
+        "count": "42"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PAHARGANJ",
+        "card_type": "Serving",
+        "count": "5508"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PAHARGANJ",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-III ",
+        "card_type": "Serving",
+        "count": "6928"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "CBI COLONY",
+        "card_type": "Serving",
+        "count": "1138"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PHA (ANNEXE) ",
+        "card_type": "Ex MP",
+        "count": "38"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "DIBRUGARH",
+        "card_type": "Pensioner",
+        "count": "314"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "SILCHAR",
+        "card_type": "Serving",
+        "count": "3684"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 1",
+        "card_type": "Serving",
+        "count": "16592"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 4",
+        "card_type": "Serving",
+        "count": "5231"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 4",
+        "card_type": "Pensioner",
+        "count": "3199"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "ALWAL",
+        "card_type": "Serving",
+        "count": "14009"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "VISAKHAPATNAM WC NO 2",
+        "card_type": "Serving",
+        "count": "6616"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "VISAKHAPATNAM WC NO 2",
+        "card_type": "Ex MP",
+        "count": "5"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "VIJYAWADA",
+        "card_type": "Freedom Fighter",
+        "count": "12"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "NELLORE",
+        "card_type": "Serving",
+        "count": "1252"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "A. G COLONY",
+        "card_type": "Freedom Fighter",
+        "count": "192"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "A. G COLONY",
+        "card_type": "Serving",
+        "count": "7481"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "KAKATIYA NAGAR",
+        "card_type": "Ex MP",
+        "count": "7"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "TARNAKA",
+        "card_type": "Freedom Fighter",
+        "count": "179"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "CGHS Polyclinic-II Saifabad",
+        "card_type": "Pensioner",
+        "count": "3"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "PADMARAO NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "908"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "PADMARAO NAGAR",
+        "card_type": "Pensioner",
+        "count": "7139"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "PADMARAO NAGAR",
+        "card_type": "Serving",
+        "count": "5081"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "PADMARAO NAGAR",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "BEGUMPET",
+        "card_type": "Lok Sabha MP",
+        "count": "15"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "HIMAYAT NAGAR",
+        "card_type": "Pensioner",
+        "count": "4341"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "MALAKPET",
+        "card_type": "Freedom Fighter",
+        "count": "257"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "KANCHANBAGH",
+        "card_type": "Pensioner",
+        "count": "9434"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Westland Khamaria",
+        "card_type": "Serving",
+        "count": "1351"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Westland Khamaria",
+        "card_type": "Pensioner",
+        "count": "6393"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Napier Town",
+        "card_type": "Freedom Fighter",
+        "count": "22"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "AJMER",
+        "card_type": "Pensioner",
+        "count": "3218"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "Air India",
+        "card_type": "Pensioner",
+        "count": "2"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "JANTA COLONY",
+        "card_type": "Pensioner",
+        "count": "2295"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "JANTA COLONY",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "BAJAJ NAGAR",
+        "card_type": "Ex MP",
+        "count": "18"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "MALVIYA NAGAR",
+        "card_type": "Ex MP",
+        "count": "5"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "VIDHYADHAR NAGAR",
+        "card_type": "Serving",
+        "count": "7986"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "VIDHYADHAR NAGAR",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "JODHPUR",
+        "card_type": "Serving",
+        "count": "8694"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "RAKSHA VIHAR",
+        "card_type": "Pensioner",
+        "count": "8823"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "SAKET NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "R. K. NAGAR",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "KHAPRA MOHAL",
+        "card_type": "Serving",
+        "count": "2749"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "Air India",
+        "card_type": "Pensioner",
+        "count": "14"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "BHOWANIPUR KALIGHAT",
+        "card_type": "Freedom Fighter",
+        "count": "23"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "MINT COLONY",
+        "card_type": "Freedom Fighter",
+        "count": "60"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SANTRAGACHI ",
+        "card_type": "Freedom Fighter",
+        "count": "30"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SANTRAGACHI ",
+        "card_type": "Pensioner",
+        "count": "4009"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SALT LAKE ,AF",
+        "card_type": "Ex MP",
+        "count": "9"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "AIRPORT",
+        "card_type": "Serving",
+        "count": "7449"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "LAKE TOWN",
+        "card_type": "Freedom Fighter",
+        "count": "77"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "Motilal Gupta Road",
+        "card_type": "Pensioner",
+        "count": "5076"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "PMG Office Hazaratganj",
+        "card_type": "Pensioner",
+        "count": "1676"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow6",
+        "card_type": "Serving",
+        "count": "13158"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow2",
+        "card_type": "Serving",
+        "count": "1281"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow3",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": " CGHS WC BAGHPAT",
+        "card_type": "Serving",
+        "count": "416"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "Shastri Nagar Meerut",
+        "card_type": "Pensioner",
+        "count": "3059"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "Vijay Nagar Meerut",
+        "card_type": "Serving",
+        "count": "1749"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "S K Road Meerut",
+        "card_type": "Serving",
+        "count": "3802"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "S K Road Meerut",
+        "card_type": "Ex MP",
+        "count": "9"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "Lekha Nagar Meerut",
+        "card_type": "Pensioner",
+        "count": "2618"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "Ambala Road Saharanpur",
+        "card_type": "Pensioner",
+        "count": "2"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "Gill Colony Saharanpur",
+        "card_type": "Pensioner",
+        "count": "867"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "Gill Colony Saharanpur",
+        "card_type": "Serving",
+        "count": "2673"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "NASHIK",
+        "card_type": "Serving",
+        "count": "7042"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "C G O NEW MARINE LINES",
+        "card_type": "Freedom Fighter",
+        "count": "15"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "C G O NEW MARINE LINES",
+        "card_type": "Ex MP",
+        "count": "20"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "AMBARNATH",
+        "card_type": "Serving",
+        "count": "7583"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "CBD BELAPUR",
+        "card_type": "Pensioner",
+        "count": "11638"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "WAKOLA",
+        "card_type": "Serving",
+        "count": "2065"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "OSHIWARA",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "VIKHROLI",
+        "card_type": "Serving",
+        "count": "4"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "PEDDER ROAD",
+        "card_type": "Pensioner",
+        "count": "751"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "PEDDER ROAD",
+        "card_type": "Serving",
+        "count": "1174"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "KANDIVALI",
+        "card_type": "Serving",
+        "count": "5166"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "SHEIKH MISTRY, KOLIWADA",
+        "card_type": "Serving",
+        "count": "12567"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "PAREL ",
+        "card_type": "Pensioner",
+        "count": "3194"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "KANJURMARG POWAI",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "KANJURMARG POWAI",
+        "card_type": "Serving",
+        "count": "12277"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "BORIVALI",
+        "card_type": "Serving",
+        "count": "24"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "SEEPZ",
+        "card_type": "Pensioner",
+        "count": "1903"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "NEPEAN SEA ROAD",
+        "card_type": "Ex MP",
+        "count": "7"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "SANTAKRUZ",
+        "card_type": "Freedom Fighter",
+        "count": "4"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "GHATKOPAR",
+        "card_type": "Serving",
+        "count": "7998"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "WADALA",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "Air India",
+        "card_type": "Pensioner",
+        "count": "2"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "KATOL ROAD",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "PANCH PAOLI",
+        "card_type": "Freedom Fighter",
+        "count": "5"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "PANCH PAOLI",
+        "card_type": "Serving",
+        "count": "2629"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "ITWARI",
+        "card_type": "Serving",
+        "count": "1223"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "MEDICAL SQUARE",
+        "card_type": "Freedom Fighter",
+        "count": "4"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "SHANKAR NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "5"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "SITABULDI",
+        "card_type": "Pensioner",
+        "count": "2468"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "SANKAR DARA",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "Air India",
+        "card_type": "Pensioner",
+        "count": "27"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "GAYA",
+        "card_type": "Pensioner",
+        "count": "155"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "BORING CANAL ROAD",
+        "card_type": "Serving",
+        "count": "3549"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "SOUTH CHAJU BAGH",
+        "card_type": "Serving",
+        "count": "2"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "MUZAFFARPUR",
+        "card_type": "Pensioner",
+        "count": "428"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Kendranchal Colony",
+        "card_type": "Serving",
+        "count": "11314"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Lahurabir Varanasi",
+        "card_type": "Pensioner",
+        "count": "871"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Kalyani Devi",
+        "card_type": "Serving",
+        "count": "1708"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Naini",
+        "card_type": "Pensioner",
+        "count": "2523"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Drummond",
+        "card_type": "Serving",
+        "count": "8218"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Leader Road",
+        "card_type": "Freedom Fighter",
+        "count": "4"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Jawahar Lal Nehru Road",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "MANGALWAR PETH",
+        "card_type": "Serving",
+        "count": "991"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "PHULENAGAR, YERWADA",
+        "card_type": "Pensioner",
+        "count": "17089"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "MUKUND NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "230"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "SHUKRAWAR PETH",
+        "card_type": "Freedom Fighter",
+        "count": "7"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "SHUKRAWAR PETH",
+        "card_type": "Pensioner",
+        "count": "8951"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "SHUKRAWAR PETH",
+        "card_type": "Serving",
+        "count": "2168"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "SHUKRAWAR PETH",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "RANCHI",
+        "wellnessCentreName": "NEW AG COLONY, DORANDA",
+        "card_type": "Pensioner",
+        "count": "5234"
+    },
+    {
+        "cityName": "RANCHI",
+        "wellnessCentreName": "KANTA TOLI",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "SHILLONG",
+        "wellnessCentreName": "SHILLONG",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "SHILLONG",
+        "wellnessCentreName": "OPP. Raj Bhawan Shillong",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "SHILLONG",
+        "wellnessCentreName": "OPP. Raj Bhawan Shillong",
+        "card_type": "Pensioner",
+        "count": "1023"
+    },
+    {
+        "cityName": "SHILLONG",
+        "wellnessCentreName": "OPP. Raj Bhawan Shillong",
+        "card_type": "Serving",
+        "count": "13246"
+    },
+    {
+        "cityName": "SHILLONG",
+        "wellnessCentreName": "Imphal",
+        "card_type": "Pensioner",
+        "count": "291"
+    },
+    {
+        "cityName": "SHILLONG",
+        "wellnessCentreName": "AGARTALA",
+        "card_type": "Freedom Fighter",
+        "count": "4"
+    },
+    {
+        "cityName": "SHILLONG",
+        "wellnessCentreName": "SHILLONG",
+        "card_type": "Pensioner",
+        "count": "1149"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "COCHIN",
+        "card_type": "Serving",
+        "count": "3028"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "COCHIN",
+        "card_type": "Ex MP",
+        "count": "11"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "TRIVANDRUM 2",
+        "card_type": "Pensioner",
+        "count": "10024"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "KANNUR",
+        "card_type": "Serving",
+        "count": "389"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "TRIVANDRUM",
+        "card_type": "Pensioner",
+        "count": "18424"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "Vadodara",
+        "card_type": "Ex MP",
+        "count": "10"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "ASHRAM ROAD",
+        "card_type": "Ex MP",
+        "count": "61"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "VEJALPUR",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "PRAGATINAGAR, NARANPURA",
+        "card_type": "Pensioner",
+        "count": "5096"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "NARODA",
+        "card_type": "Serving",
+        "count": "5711"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "GANDHI NAGAR",
+        "card_type": "Rajya Sabha MP",
+        "count": "5"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "RAMBAUG,MANINGAR",
+        "card_type": "Pensioner",
+        "count": "3749"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA SESHADRIPURAM",
+        "card_type": "Pensioner",
+        "count": "10237"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA CGHS POLYCLINIC SHIVAJINAGAR",
+        "card_type": "Pensioner",
+        "count": "2"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA DOMLUR",
+        "card_type": "Serving",
+        "count": "8441"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA DOMLUR",
+        "card_type": "Pensioner",
+        "count": "5323"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA KORAMANGALA",
+        "card_type": "Freedom Fighter",
+        "count": "16"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA JAYANAGAR",
+        "card_type": "Ex MP",
+        "count": "27"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA JAYANAGAR",
+        "card_type": "Pensioner",
+        "count": "9093"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA VIJAYANAGAR",
+        "card_type": "Ex MP",
+        "count": "20"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA VIJAYANAGAR",
+        "card_type": "Serving",
+        "count": "8677"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA VIJAYANAGAR",
+        "card_type": "Pensioner",
+        "count": "12226"
+    },
+    {
+        "cityName": "BHOPAL",
+        "wellnessCentreName": "Air India",
+        "card_type": "Pensioner",
+        "count": "3"
+    },
+    {
+        "cityName": "BHOPAL",
+        "wellnessCentreName": "JAHANGIRABAD BP – 1",
+        "card_type": "Freedom Fighter",
+        "count": "16"
+    },
+    {
+        "cityName": "BHUBANESHWAR",
+        "wellnessCentreName": "KHARAVELA NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "78"
+    },
+    {
+        "cityName": "BHUBANESHWAR",
+        "wellnessCentreName": "KHARAVELA NAGAR",
+        "card_type": "Pensioner",
+        "count": "4697"
+    },
+    {
+        "cityName": "BHUBANESHWAR",
+        "wellnessCentreName": "PMG Square",
+        "card_type": "Serving",
+        "count": "7173"
+    },
+    {
+        "cityName": "BHUBANESHWAR",
+        "wellnessCentreName": "PMG Square",
+        "card_type": "Ex MP",
+        "count": "7"
+    },
+    {
+        "cityName": "BHUBANESHWAR",
+        "wellnessCentreName": " CGHS WC BERHAMPUR",
+        "card_type": "Pensioner",
+        "count": "853"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "CHD Sec 45",
+        "card_type": "Freedom Fighter",
+        "count": "17"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": " PANCHKULA ",
+        "card_type": "Serving",
+        "count": "1300"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "JALANDHAR",
+        "card_type": "Serving",
+        "count": "7485"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "Sanat nagar Srinagar",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "AMBALA",
+        "card_type": "Serving",
+        "count": "6281"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "NANDAMBAKKAM",
+        "card_type": "Serving",
+        "count": "2550"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "NUNGAMBAKKAM",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "NUNGAMBAKKAM",
+        "card_type": "Pensioner",
+        "count": "2193"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "NUNGAMBAKKAM",
+        "card_type": "Serving",
+        "count": "4445"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "RAPURAM",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "TRICHY",
+        "card_type": "Freedom Fighter",
+        "count": "4"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "TIRUNELVELI",
+        "card_type": "Serving",
+        "count": "894"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "ANNA NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "20"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "ANNA NAGAR",
+        "card_type": "Pensioner",
+        "count": "10280"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "AVADI",
+        "card_type": "Serving",
+        "count": "10405"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "GOPALAPURAM",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "GOPALAPURAM",
+        "card_type": "Pensioner",
+        "count": "2103"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "GOPALAPURAM",
+        "card_type": "Ex MP",
+        "count": "64"
+    },
+    {
+        "cityName": "DEHRADUN",
+        "wellnessCentreName": "RAIPUR ROAD",
+        "card_type": "Pensioner",
+        "count": "11299"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "CHITRA GUPTA ROAD",
+        "card_type": "Serving",
+        "count": "6919"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-IV",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-IV",
+        "card_type": "Serving",
+        "count": "10670"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "RAJOURI GARDEN",
+        "card_type": "Jaurnalist",
+        "count": "30"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SHAKUR BASTI",
+        "card_type": "Pensioner",
+        "count": "7145"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "INDERPURI",
+        "card_type": "Pensioner",
+        "count": "2097"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-V",
+        "card_type": "Jaurnalist",
+        "count": "29"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-V",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NANGAL RAYA",
+        "card_type": "Pensioner",
+        "count": "7018"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "RAJPUR ROAD",
+        "card_type": "Pensioner",
+        "count": "1116"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "RAJPUR ROAD",
+        "card_type": "Serving",
+        "count": "2279"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SUBZI MANDI",
+        "card_type": "Jaurnalist",
+        "count": "6"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KINGSWAY CAMP",
+        "card_type": "Jaurnalist",
+        "count": "19"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "JANAKPURI-I",
+        "card_type": "Freedom Fighter",
+        "count": "5"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "JANAKPURI-I",
+        "card_type": "Serving",
+        "count": "42929"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ASHOK VIHAR",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "TRI NAGAR",
+        "card_type": "Pensioner",
+        "count": "1500"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MEHRAULI BADARPUR ROAD (M B ROAD)",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MEHRAULI BADARPUR ROAD (M B ROAD)",
+        "card_type": "Pensioner",
+        "count": "7610"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MEHRAULI BADARPUR ROAD (M B ROAD)",
+        "card_type": "Serving",
+        "count": "26886"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PALAM COLONY",
+        "card_type": "Rajya Sabha MP",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PALAM COLONY",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GHAZIABAD",
+        "card_type": "Jaurnalist",
+        "count": "186"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GHAZIABAD",
+        "card_type": "Serving",
+        "count": "40934"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GHAZIABAD",
+        "card_type": "Ex MP",
+        "count": "8"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-VI",
+        "card_type": "Jaurnalist",
+        "count": "21"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-VI",
+        "card_type": "Pensioner",
+        "count": "2532"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-VI",
+        "card_type": "Serving",
+        "count": "7410"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "FARIDABAD",
+        "card_type": "Pensioner",
+        "count": "13634"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MUNIRKA",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GURUGRAM SECTOR 5",
+        "card_type": "Freedom Fighter",
+        "count": "46"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "JANAKPURI-II",
+        "card_type": "Pensioner",
+        "count": "5798"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KALKAJI-II",
+        "card_type": "Serving",
+        "count": "4682"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PUSHP VIHAR(PUSHP VIHAR SECTOR 4) ",
+        "card_type": "Serving",
+        "count": "50978"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VIVEK VIHAR",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VIVEK VIHAR",
+        "card_type": "Pensioner",
+        "count": "5273"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "CHANDNI CHOWK",
+        "card_type": "Pensioner",
+        "count": "1837"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PRAGATI  VIHAR",
+        "card_type": "Pensioner",
+        "count": "972"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NOIDA ",
+        "card_type": "Jaurnalist",
+        "count": "326"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DILSHAD GARDEN",
+        "card_type": "Pensioner",
+        "count": "6349"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LODHI ROAD-I (ALI GANJ)",
+        "card_type": "Pensioner",
+        "count": "2322"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VASANT KUNJ",
+        "card_type": "Ex MP",
+        "count": "15"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "INDIRAPURAM",
+        "card_type": "Freedom Fighter",
+        "count": "4"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NARAINA",
+        "card_type": "Jaurnalist",
+        "count": "14"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NARAINA",
+        "card_type": "Serving",
+        "count": "6495"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GOLE MARKET ",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DWARKA SECTOR 23",
+        "card_type": "Jaurnalist",
+        "count": "18"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PATPARGANJ",
+        "card_type": "Jaurnalist",
+        "count": "74"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PATPARGANJ",
+        "card_type": "Serving",
+        "count": "2399"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KIDWAI NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SAROJINI NAGAR I",
+        "card_type": "Pensioner",
+        "count": "846"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MOTIBAGH",
+        "card_type": "Jaurnalist",
+        "count": "23"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KAROLBAGH",
+        "card_type": "Serving",
+        "count": "369"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VIKAS PURI",
+        "card_type": "Serving",
+        "count": "13433"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DEV NAGAR",
+        "card_type": "Jaurnalist",
+        "count": "28"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PATEL NAGAR-I(EAST)",
+        "card_type": "Pensioner",
+        "count": "175"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "CHANKAYA PURI",
+        "card_type": "Serving",
+        "count": "5210"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KASTURBA NAGAR-I",
+        "card_type": "Pensioner",
+        "count": "1622"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "TILAK NAGAR",
+        "card_type": "Jaurnalist",
+        "count": "14"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PRESIDENTS ESTATE",
+        "card_type": "Jaurnalist",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "CAG BUILDING",
+        "card_type": "Pensioner",
+        "count": "39"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NANAK PURA",
+        "card_type": "Ex MP",
+        "count": "5"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NAUROJI NAGAR",
+        "card_type": "Serving",
+        "count": "1254"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NORTH AVENUE",
+        "card_type": "Rajya Sabha MP",
+        "count": "397"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SOUTH AVENUE",
+        "card_type": "Serving",
+        "count": "2570"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VILLAGE JHARODA KALAN  NAJAFGARH",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VILLAGE JHARODA KALAN  NAJAFGARH",
+        "card_type": "Serving",
+        "count": "56385"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SAROJINI NAGAR MARKET",
+        "card_type": "Pensioner",
+        "count": "479"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SAROJINI NAGAR MARKET",
+        "card_type": "Serving",
+        "count": "834"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DWARKA SECTOR 9",
+        "card_type": "Freedom Fighter",
+        "count": "4"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DWARKA SECTOR 9",
+        "card_type": "Pensioner",
+        "count": "18881"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SHRINIVASPURI",
+        "card_type": "Pensioner",
+        "count": "4604"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SHRINIVASPURI",
+        "card_type": "Ex MP",
+        "count": "10"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ANDREWS GANJ",
+        "card_type": "Ex MP",
+        "count": "20"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MINTO ROAD",
+        "card_type": "Pensioner",
+        "count": "2039"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "JUNG PURA",
+        "card_type": "Jaurnalist",
+        "count": "54"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MALVIYA NAGAR",
+        "card_type": "Jaurnalist",
+        "count": "52"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MALVIYA NAGAR",
+        "card_type": "Serving",
+        "count": "6942"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KALKA  JI - I",
+        "card_type": "Jaurnalist",
+        "count": "48"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NEW RAJINDER NAGAR",
+        "card_type": "Jaurnalist",
+        "count": "31"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-II",
+        "card_type": "Serving",
+        "count": "8996"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "HAUZ KHAS",
+        "card_type": "Freedom Fighter",
+        "count": "8"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "HAUZ KHAS",
+        "card_type": "Jaurnalist",
+        "count": "42"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "HAUZ KHAS",
+        "card_type": "Pensioner",
+        "count": "6033"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MAYA PURI (HARI NAGAR)",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MAYA PURI (HARI NAGAR)",
+        "card_type": "Jaurnalist",
+        "count": "12"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PHA (ANNEXE) ",
+        "card_type": "Serving",
+        "count": "4"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "Air india",
+        "card_type": "Pensioner",
+        "count": "4"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 3",
+        "card_type": "Pensioner",
+        "count": "2702"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "AiZwal",
+        "card_type": "Serving",
+        "count": "5629"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 1",
+        "card_type": "Pensioner",
+        "count": "4264"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 1",
+        "card_type": "Rajya Sabha MP",
+        "count": "5"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "AiZwal",
+        "card_type": "Pensioner",
+        "count": "214"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 4",
+        "card_type": "Ex MP",
+        "count": "13"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 2",
+        "card_type": "Serving",
+        "count": "12389"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 2",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "GUNTUR",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "GUNTUR",
+        "card_type": "Serving",
+        "count": "1781"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "ALWAL",
+        "card_type": "Pensioner",
+        "count": "12039"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "ALWAL",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "VISAKHAPATNAM",
+        "card_type": "Freedom Fighter",
+        "count": "4"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "VISAKHAPATNAM WC NO 2",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "RAJAHMUNDRY",
+        "card_type": "Serving",
+        "count": "1338"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "VIJYAWADA",
+        "card_type": "Pensioner",
+        "count": "5651"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "NELLORE",
+        "card_type": "Ex MP",
+        "count": "5"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "VIJYAWADA",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "CHARMINAR",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "DILSUKHNAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "877"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "DILSUKHNAGAR",
+        "card_type": "Serving",
+        "count": "7785"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "DILSUKHNAGAR",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "HUMAYUN NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "83"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "BEGUMPET",
+        "card_type": "Serving",
+        "count": "9468"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "HIMAYAT NAGAR",
+        "card_type": "Lok Sabha MP",
+        "count": "1"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "HIMAYAT NAGAR",
+        "card_type": "Serving",
+        "count": "5567"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "KACHIGUDA",
+        "card_type": "Pensioner",
+        "count": "5909"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "KACHIGUDA",
+        "card_type": "Serving",
+        "count": "4469"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "MALAKPET",
+        "card_type": "Pensioner",
+        "count": "5628"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Head Post Office Compound",
+        "card_type": "Serving",
+        "count": "6508"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Head Post Office Compound",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Adhartal",
+        "card_type": "Serving",
+        "count": "812"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Kamla Nehru Nagar",
+        "card_type": "Freedom Fighter",
+        "count": "10"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Napier Town",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "CHANDAN MAHAL",
+        "card_type": "Pensioner",
+        "count": "2288"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "JANTA COLONY",
+        "card_type": "Serving",
+        "count": "1307"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "BAJAJ NAGAR",
+        "card_type": "Pensioner",
+        "count": "5959"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "MALVIYA NAGAR",
+        "card_type": "Serving",
+        "count": "9147"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "JODHPUR",
+        "card_type": "Ex MP",
+        "count": "8"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "GWALIOR WC",
+        "card_type": "Pensioner",
+        "count": "3017"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "SAKET NAGAR",
+        "card_type": "Serving",
+        "count": "1204"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "LAKE AREA",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "AIIH&PH Campus CR Avenue",
+        "card_type": "Pensioner",
+        "count": "4600"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "MINT COLONY",
+        "card_type": "Serving",
+        "count": "4668"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "MINT COLONY",
+        "card_type": "Ex MP",
+        "count": "6"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "BELVEDERE",
+        "card_type": "Serving",
+        "count": "3812"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SANTRAGACHI ",
+        "card_type": "Serving",
+        "count": "3492"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SALT LAKE ,AF",
+        "card_type": "Freedom Fighter",
+        "count": "22"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "AIRPORT",
+        "card_type": "Freedom Fighter",
+        "count": "102"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "LAKE TOWN",
+        "card_type": "Pensioner",
+        "count": "5500"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "TOLLYGUNJ",
+        "card_type": "Pensioner",
+        "count": "8343"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "Motilal Gupta Road",
+        "card_type": "Freedom Fighter",
+        "count": "20"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "PMG Office Hazaratganj",
+        "card_type": "Serving",
+        "count": "2642"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Aishbagh",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "GORAKHPUR",
+        "card_type": "Pensioner",
+        "count": "1276"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow3",
+        "card_type": "Pensioner",
+        "count": "5543"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow5",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": " CGHS WC MORADABAD",
+        "card_type": "Serving",
+        "count": "1402"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "AbuLane Meerut",
+        "card_type": "Serving",
+        "count": "5761"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "Shastri Nagar Meerut",
+        "card_type": "Freedom Fighter",
+        "count": "5"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "Shastri Nagar Meerut",
+        "card_type": "Serving",
+        "count": "2569"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "Shastri Nagar Meerut",
+        "card_type": "Ex MP",
+        "count": "5"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "Kanker Khera Meerut",
+        "card_type": "Pensioner",
+        "count": "5298"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "S K Road Meerut",
+        "card_type": "Freedom Fighter",
+        "count": "6"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "C G O NEW MARINE LINES",
+        "card_type": "Lok Sabha MP",
+        "count": "1"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "BANDRA",
+        "card_type": "Serving",
+        "count": "83"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "AMBARNATH",
+        "card_type": "Pensioner",
+        "count": "12622"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "DEONAR",
+        "card_type": "Pensioner",
+        "count": "3003"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "OSHIWARA",
+        "card_type": "Pensioner",
+        "count": "589"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "OSHIWARA",
+        "card_type": "Serving",
+        "count": "371"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "PAREL ",
+        "card_type": "Serving",
+        "count": "4156"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "PAREL ",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "NEPEAN SEA ROAD",
+        "card_type": "Pensioner",
+        "count": "467"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "JUHU",
+        "card_type": "Pensioner",
+        "count": "7104"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "JUHU",
+        "card_type": "Serving",
+        "count": "3471"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "WORLI",
+        "card_type": "Ex MP",
+        "count": "5"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "SANTAKRUZ",
+        "card_type": "Serving",
+        "count": "4308"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "GHATKOPAR",
+        "card_type": "Freedom Fighter",
+        "count": "4"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "GHATKOPAR",
+        "card_type": "Pensioner",
+        "count": "7510"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "WADALA",
+        "card_type": "Pensioner",
+        "count": "2286"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "KOLIWADA",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "CLI SION",
+        "card_type": "Pensioner",
+        "count": "2083"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "NASHIK",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "CHINDWARA ROAD",
+        "card_type": "Serving",
+        "count": "497"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "KATOL ROAD",
+        "card_type": "Serving",
+        "count": "6217"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "CIVIL LINES",
+        "card_type": "Freedom Fighter",
+        "count": "7"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "MEDICAL SQUARE",
+        "card_type": "Pensioner",
+        "count": "5422"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "SHANKAR NAGAR",
+        "card_type": "Lok Sabha MP",
+        "count": "1"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "SHANKAR NAGAR",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "WARDHA ROAD",
+        "card_type": "Serving",
+        "count": "2073"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "SANKAR DARA",
+        "card_type": "Freedom Fighter",
+        "count": "21"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "PANDRI RAIPUR",
+        "card_type": "Pensioner",
+        "count": "1476"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "KANKAR BAGH",
+        "card_type": "Pensioner",
+        "count": "2916"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "KANKAR BAGH",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "Salimpur Dumara,Ashiyana Nagar",
+        "card_type": "Freedom Fighter",
+        "count": "20"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "Salimpur Dumara,Ashiyana Nagar",
+        "card_type": "Pensioner",
+        "count": "3410"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "KANKAR BAGH",
+        "card_type": "Freedom Fighter",
+        "count": "219"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "BUDHA MARG",
+        "card_type": "Ex MP",
+        "count": "13"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Kendranchal Colony",
+        "card_type": "Pensioner",
+        "count": "4221"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "New Katra",
+        "card_type": "Serving",
+        "count": "6180"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "New Katra",
+        "card_type": "Pensioner",
+        "count": "4750"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Kalyani Devi",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Drummond",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Drummond",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "GT ROAD EAST STREET",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "GST BHAVAN AURANGABAD ",
+        "card_type": "Serving",
+        "count": "1950"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "PUNE CAMP",
+        "card_type": "Pensioner",
+        "count": "7936"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "AKURDI ",
+        "card_type": "Pensioner",
+        "count": "13782"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "AKURDI ",
+        "card_type": "Freedom Fighter",
+        "count": "15"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "PHULENAGAR, YERWADA",
+        "card_type": "Freedom Fighter",
+        "count": "16"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "Air India",
+        "card_type": "Pensioner",
+        "count": "18"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "RANGE HILLS, KIRKEE",
+        "card_type": "Freedom Fighter",
+        "count": "16"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "RANGE HILLS, KIRKEE",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "MUKUND NAGAR",
+        "card_type": "Pensioner",
+        "count": "17266"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "MUKUND NAGAR",
+        "card_type": "Serving",
+        "count": "3082"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "GT ROAD EAST STREET",
+        "card_type": "Pensioner",
+        "count": "5659"
+    },
+    {
+        "cityName": "RANCHI",
+        "wellnessCentreName": "NEW AG COLONY, DORANDA",
+        "card_type": "Serving",
+        "count": "13731"
+    },
+    {
+        "cityName": "RANCHI",
+        "wellnessCentreName": "P and T COLONY LALPUR",
+        "card_type": "Pensioner",
+        "count": "923"
+    },
+    {
+        "cityName": "SHILLONG",
+        "wellnessCentreName": "SHILLONG",
+        "card_type": "Serving",
+        "count": "14127"
+    },
+    {
+        "cityName": "SHILLONG",
+        "wellnessCentreName": "Air India",
+        "card_type": "Serving",
+        "count": "3"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "TRIVANDRUM 3",
+        "card_type": "Freedom Fighter",
+        "count": "88"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "TRIVANDRUM 3",
+        "card_type": "Lok Sabha MP",
+        "count": "2"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "TRIVANDRUM 3",
+        "card_type": "Pensioner",
+        "count": "13778"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "TRIVANDRUM",
+        "card_type": "Freedom Fighter",
+        "count": "62"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "TRIVANDRUM",
+        "card_type": "Ex MP",
+        "count": "7"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "ASHRAM ROAD",
+        "card_type": "Pensioner",
+        "count": "8598"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "NAVRANGPURA",
+        "card_type": "Freedom Fighter",
+        "count": "11"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "NAVRANGPURA",
+        "card_type": "Pensioner",
+        "count": "3879"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "GANDHI NAGAR",
+        "card_type": "Pensioner",
+        "count": "2552"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "GANDHI NAGAR",
+        "card_type": "Serving",
+        "count": "20650"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "GANDHI NAGAR",
+        "card_type": "Ex MP",
+        "count": "19"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "LALDARWAJA",
+        "card_type": "Serving",
+        "count": "1424"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "BOPAL",
+        "card_type": "Pensioner",
+        "count": "1718"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "Banashankari",
+        "card_type": "Serving",
+        "count": "4320"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "Banashankari",
+        "card_type": "Pensioner",
+        "count": "7574"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA SESHADRIPURAM",
+        "card_type": "Ex MP",
+        "count": "31"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA SESHADRIPURAM",
+        "card_type": "Serving",
+        "count": "5550"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA CGHS POLYCLINIC SHIVAJINAGAR",
+        "card_type": "Serving",
+        "count": "4"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA GANGENAHALLI",
+        "card_type": "Serving",
+        "count": "10218"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA GANGENAHALLI",
+        "card_type": "Pensioner",
+        "count": "10509"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "Air India Bangalore",
+        "card_type": "Pensioner",
+        "count": "4"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA SHIVAJINAGAR",
+        "card_type": "Pensioner",
+        "count": "8928"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA KORAMANGALA",
+        "card_type": "Pensioner",
+        "count": "6841"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "Mysuru Wellness center",
+        "card_type": "Serving",
+        "count": "2676"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA JAYANAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "21"
+    },
+    {
+        "cityName": "BHOPAL",
+        "wellnessCentreName": "JAHANGIRABAD BP – 1",
+        "card_type": "Pensioner",
+        "count": "9241"
+    },
+    {
+        "cityName": "BHUBANESHWAR",
+        "wellnessCentreName": "BHUBANESHWAR",
+        "card_type": "Serving",
+        "count": "3"
+    },
+    {
+        "cityName": "BHUBANESHWAR",
+        "wellnessCentreName": "KHARAVELA NAGAR",
+        "card_type": "Serving",
+        "count": "6097"
+    },
+    {
+        "cityName": "BHUBANESHWAR",
+        "wellnessCentreName": "CUTTACK",
+        "card_type": "Serving",
+        "count": "3417"
+    },
+    {
+        "cityName": "BHUBANESHWAR",
+        "wellnessCentreName": "CUTTACK",
+        "card_type": "Pensioner",
+        "count": "1965"
+    },
+    {
+        "cityName": "BHUBANESHWAR",
+        "wellnessCentreName": "PMG Square",
+        "card_type": "Pensioner",
+        "count": "4794"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "CHD Sec 45",
+        "card_type": "Ex MP",
+        "count": "46"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "CGHS WC-2 Jammu",
+        "card_type": "Pensioner",
+        "count": "337"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "CGHS WC-2 Jammu",
+        "card_type": "Serving",
+        "count": "611"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "JAMMU",
+        "card_type": "Jaurnalist",
+        "count": "1"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "MEENAMBAKKAM",
+        "card_type": "Freedom Fighter",
+        "count": "6"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "NANDAMBAKKAM",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "RAPURAM",
+        "card_type": "Serving",
+        "count": "996"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "TRIPLICANE",
+        "card_type": "Pensioner",
+        "count": "1561"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "PUDUCHERRY",
+        "card_type": "Serving",
+        "count": "2490"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "PUDUCHERRY",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "Air india",
+        "card_type": "Pensioner",
+        "count": "11"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "Air india",
+        "card_type": "Serving",
+        "count": "1"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "VEPERY",
+        "card_type": "Serving",
+        "count": "1161"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "AVADI",
+        "card_type": "Freedom Fighter",
+        "count": "5"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "GOPALAPURAM",
+        "card_type": "Serving",
+        "count": "2193"
+    },
+    {
+        "cityName": "DEHRADUN",
+        "wellnessCentreName": "RAIPUR ROAD",
+        "card_type": "Serving",
+        "count": "8654"
+    },
+    {
+        "cityName": "DEHRADUN",
+        "wellnessCentreName": "DEHRADUN",
+        "card_type": "Freedom Fighter",
+        "count": "7"
+    },
+    {
+        "cityName": "DEHRADUN",
+        "wellnessCentreName": "DEHRADUN",
+        "card_type": "Serving",
+        "count": "15920"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "RAJOURI GARDEN",
+        "card_type": "Pensioner",
+        "count": "7186"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SHAKUR BASTI",
+        "card_type": "Serving",
+        "count": "8527"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "INDERPURI",
+        "card_type": "Serving",
+        "count": "6629"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "G.K.G Krishna Nagar",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-V",
+        "card_type": "Pensioner",
+        "count": "3868"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NANGAL RAYA",
+        "card_type": "Jaurnalist",
+        "count": "28"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SUBZI MANDI",
+        "card_type": "Serving",
+        "count": "5627"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SADIQ NAGAR",
+        "card_type": "Pensioner",
+        "count": "4362"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SADIQ NAGAR",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "TRI NAGAR",
+        "card_type": "Jaurnalist",
+        "count": "14"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MEHRAULI BADARPUR ROAD (M B ROAD)",
+        "card_type": "Jaurnalist",
+        "count": "37"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LAXMI NAGAR",
+        "card_type": "Jaurnalist",
+        "count": "487"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LAXMI NAGAR",
+        "card_type": "Serving",
+        "count": "32862"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GHAZIABAD",
+        "card_type": "Freedom Fighter",
+        "count": "5"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GHAZIABAD",
+        "card_type": "Pensioner",
+        "count": "22362"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "TIMAR PUR ",
+        "card_type": "Pensioner",
+        "count": "5951"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "TIMAR PUR ",
+        "card_type": "Serving",
+        "count": "27154"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "FARIDABAD",
+        "card_type": "Freedom Fighter",
+        "count": "9"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "FARIDABAD",
+        "card_type": "Jaurnalist",
+        "count": "59"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MUNIRKA",
+        "card_type": "Pensioner",
+        "count": "1334"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MUNIRKA",
+        "card_type": "Serving",
+        "count": "19419"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MUNIRKA",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KASTURBA NAGAR-II",
+        "card_type": "Ex MP",
+        "count": "5"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KALKAJI-II",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KALI BARI",
+        "card_type": "Pensioner",
+        "count": "2628"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PUSHP VIHAR(PUSHP VIHAR SECTOR 4) ",
+        "card_type": "Jaurnalist",
+        "count": "97"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VIVEK VIHAR",
+        "card_type": "Jaurnalist",
+        "count": "78"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PASCHIM VIHAR",
+        "card_type": "Freedom Fighter",
+        "count": "23"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PASCHIM VIHAR",
+        "card_type": "Serving",
+        "count": "12616"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PASCHIM VIHAR",
+        "card_type": "Ex MP",
+        "count": "7"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PRAGATI  VIHAR",
+        "card_type": "Serving",
+        "count": "8658"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PRAGATI  VIHAR",
+        "card_type": "Ex MP",
+        "count": "7"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NOIDA ",
+        "card_type": "Pensioner",
+        "count": "17011"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DILSHAD GARDEN",
+        "card_type": "Serving",
+        "count": "13504"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SHALIMAR BAGH",
+        "card_type": "Serving",
+        "count": "10090"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LODHI ROAD-I (ALI GANJ)",
+        "card_type": "Serving",
+        "count": "7212"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LODHI ROAD-I (ALI GANJ)",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SARITA VIHAR",
+        "card_type": "Jaurnalist",
+        "count": "218"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SARITA VIHAR",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VASANT KUNJ",
+        "card_type": "Jaurnalist",
+        "count": "53"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VASANT KUNJ",
+        "card_type": "Serving",
+        "count": "28369"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SHAHIBABAD",
+        "card_type": "Jaurnalist",
+        "count": "85"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SHAHIBABAD",
+        "card_type": "Serving",
+        "count": "12706"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VASANT VIHAR",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "INDIRAPURAM",
+        "card_type": "Pensioner",
+        "count": "10312"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "TILAK NAGAR",
+        "card_type": "Pensioner",
+        "count": "7667"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DWARKA SECTOR 23",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SONIPAT",
+        "card_type": "Serving",
+        "count": "12236"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ZILLA SAINIK BOARD FARIDABAD",
+        "card_type": "Jaurnalist",
+        "count": "10"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KIDWAI NAGAR",
+        "card_type": "Pensioner",
+        "count": "1684"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KIDWAI NAGAR",
+        "card_type": "Serving",
+        "count": "11668"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SAROJINI NAGAR I",
+        "card_type": "Jaurnalist",
+        "count": "5"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SAROJINI NAGAR I",
+        "card_type": "Serving",
+        "count": "1912"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MOTIBAGH",
+        "card_type": "Freedom Fighter",
+        "count": "6"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KAROLBAGH",
+        "card_type": "Jaurnalist",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PUSA ROAD",
+        "card_type": "Pensioner",
+        "count": "2167"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DEV NAGAR",
+        "card_type": "Serving",
+        "count": "7014"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PANDARA ROAD ",
+        "card_type": "Serving",
+        "count": "5610"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PATEL NAGAR-I(EAST)",
+        "card_type": "Jaurnalist",
+        "count": "3"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PATEL NAGAR-I(EAST)",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NETAJI NAGAR",
+        "card_type": "Pensioner",
+        "count": "1306"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GREATER NOIDA ",
+        "card_type": "Pensioner",
+        "count": "8364"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "CHANKAYA PURI",
+        "card_type": "Rajya Sabha MP",
+        "count": "9"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DELHI CANTONMENT  ",
+        "card_type": "Pensioner",
+        "count": "2604"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NAUROJI NAGAR",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NORTH AVENUE",
+        "card_type": "Pensioner",
+        "count": "991"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NORTH AVENUE",
+        "card_type": "Ex MP",
+        "count": "1356"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VILLAGE JHARODA KALAN  NAJAFGARH",
+        "card_type": "Pensioner",
+        "count": "15935"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DWARKA SECTOR 9",
+        "card_type": "Jaurnalist",
+        "count": "105"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DWARKA SECTOR 9",
+        "card_type": "Ex MP",
+        "count": "12"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SHRINIVASPURI",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SHRINIVASPURI",
+        "card_type": "Jaurnalist",
+        "count": "89"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PATEL NAGAR-II(WEST)",
+        "card_type": "Jaurnalist",
+        "count": "13"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MINTO ROAD",
+        "card_type": "Jaurnalist",
+        "count": "7"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MINTO ROAD",
+        "card_type": "Serving",
+        "count": "6194"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MINTO ROAD",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "JUNG PURA",
+        "card_type": "Serving",
+        "count": "9384"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "JUNG PURA",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MALVIYA NAGAR",
+        "card_type": "Ex MP",
+        "count": "12"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KALKA  JI - I",
+        "card_type": "Ex MP",
+        "count": "11"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-I",
+        "card_type": "Serving",
+        "count": "36073"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-I",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-II",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "HAUZ KHAS",
+        "card_type": "Ex MP",
+        "count": "10"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SHAHDARA",
+        "card_type": "Serving",
+        "count": "27741"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PHA (ANNEXE) ",
+        "card_type": "Lok Sabha MP",
+        "count": "1603"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PHA (ANNEXE) ",
+        "card_type": "Rajya Sabha MP",
+        "count": "2"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 3",
+        "card_type": "Freedom Fighter",
+        "count": "4"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 1",
+        "card_type": "Ex MP",
+        "count": "24"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 5",
+        "card_type": "Pensioner",
+        "count": "999"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "RAJAHMUNDRY",
+        "card_type": "Pensioner",
+        "count": "2989"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "GUNTUR",
+        "card_type": "Pensioner",
+        "count": "3437"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "ALWAL",
+        "card_type": "Freedom Fighter",
+        "count": "48"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "VISAKHAPATNAM",
+        "card_type": "Pensioner",
+        "count": "9722"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "VISAKHAPATNAM",
+        "card_type": "Serving",
+        "count": "4809"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "VISAKHAPATNAM WC NO 2",
+        "card_type": "Pensioner",
+        "count": "10358"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "NELLORE",
+        "card_type": "Pensioner",
+        "count": "2962"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "VIJYAWADA",
+        "card_type": "Serving",
+        "count": "6759"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "CHARMINAR",
+        "card_type": "Freedom Fighter",
+        "count": "43"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "A. G COLONY",
+        "card_type": "Ex MP",
+        "count": "15"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "HUMAYUN NAGAR",
+        "card_type": "Pensioner",
+        "count": "8655"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "KACHIGUDA",
+        "card_type": "Freedom Fighter",
+        "count": "176"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "MALAKPET",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "KANCHANBAGH",
+        "card_type": "Freedom Fighter",
+        "count": "13"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Head Post Office Compound",
+        "card_type": "Rajya Sabha MP",
+        "count": "2"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Head Post Office Compound",
+        "card_type": "Pensioner",
+        "count": "10368"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Napier Town",
+        "card_type": "Serving",
+        "count": "3593"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Napier Town",
+        "card_type": "Pensioner",
+        "count": "13355"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Napier Town",
+        "card_type": "Lok Sabha MP",
+        "count": "1"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Kamla Nehru Nagar",
+        "card_type": "Serving",
+        "count": "4699"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Kamla Nehru Nagar",
+        "card_type": "Pensioner",
+        "count": "13845"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "CHANDAN MAHAL",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "BANI PARK",
+        "card_type": "Ex MP",
+        "count": "12"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "JYOTI NAGAR",
+        "card_type": "Pensioner",
+        "count": "6452"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "JODHPUR",
+        "card_type": "Pensioner",
+        "count": "3188"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "KOTA",
+        "card_type": "Serving",
+        "count": "2056"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "KENDRANCHAL",
+        "card_type": "Freedom Fighter",
+        "count": "6"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "KENDRANCHAL",
+        "card_type": "Pensioner",
+        "count": "7132"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "KENDRANCHAL",
+        "card_type": "Serving",
+        "count": "3763"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "PANDU NAGAR",
+        "card_type": "Pensioner",
+        "count": "13174"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "SAKET NAGAR",
+        "card_type": "Pensioner",
+        "count": "3281"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "R. K. NAGAR",
+        "card_type": "Pensioner",
+        "count": "3096"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "R. K. NAGAR",
+        "card_type": "Serving",
+        "count": "1277"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "CIVIL LINES",
+        "card_type": "Serving",
+        "count": "2170"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "KHAPRA MOHAL",
+        "card_type": "Pensioner",
+        "count": "3329"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "Ishapore",
+        "card_type": "Serving",
+        "count": "4087"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "JALPAIGURI",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SILIGURI",
+        "card_type": "Pensioner",
+        "count": "1963"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SILIGURI",
+        "card_type": "Serving",
+        "count": "7112"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SALT LAKE  IC BLOCK DISPENSARY",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "LAKE AREA",
+        "card_type": "Pensioner",
+        "count": "3775"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "NARKELDANGA",
+        "card_type": "Freedom Fighter",
+        "count": "70"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "NARKELDANGA",
+        "card_type": "Pensioner",
+        "count": "3660"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SHYAMBAZAR",
+        "card_type": "Freedom Fighter",
+        "count": "154"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SHYAMBAZAR",
+        "card_type": "Serving",
+        "count": "2630"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "RAJDANGA",
+        "card_type": "Serving",
+        "count": "6732"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "BHOWANIPUR KALIGHAT",
+        "card_type": "Ex MP",
+        "count": "8"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "BELVEDERE",
+        "card_type": "Freedom Fighter",
+        "count": "19"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "BELVEDERE",
+        "card_type": "Ex MP",
+        "count": "5"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "BBD BAG ",
+        "card_type": "Serving",
+        "count": "3162"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "BBD BAG ",
+        "card_type": "Ex MP",
+        "count": "69"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "TOLLYGUNJ",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SALT LAKE  EB",
+        "card_type": "Pensioner",
+        "count": "2018"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SALT LAKE  EB",
+        "card_type": "Serving",
+        "count": "3623"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SALT LAKE  EB",
+        "card_type": "Ex MP",
+        "count": "8"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "Motilal Gupta Road",
+        "card_type": "Serving",
+        "count": "4040"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "AGRA",
+        "card_type": "Serving",
+        "count": "10499"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Aishbagh",
+        "card_type": "Serving",
+        "count": "384"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow3",
+        "card_type": "Serving",
+        "count": "11843"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "BAREILLY",
+        "card_type": "Pensioner",
+        "count": "2451"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow6",
+        "card_type": "Ex MP",
+        "count": "15"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow 1",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow2",
+        "card_type": "Pensioner",
+        "count": "1480"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow2",
+        "card_type": "Ex MP",
+        "count": "23"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": " CGHS WC MORADABAD",
+        "card_type": "Pensioner",
+        "count": "1283"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": " CGHS WC BAGHPAT",
+        "card_type": "Pensioner",
+        "count": "952"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "AbuLane Meerut",
+        "card_type": "Pensioner",
+        "count": "5401"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "Vijay Nagar Meerut",
+        "card_type": "Pensioner",
+        "count": "1602"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "Lekha Nagar Meerut",
+        "card_type": "Serving",
+        "count": "6201"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": " CGHS WC ALIGARH",
+        "card_type": "Serving",
+        "count": "2295"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "BOMBOLIM",
+        "card_type": "Pensioner",
+        "count": "714"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "C G O NEW MARINE LINES",
+        "card_type": "Pensioner",
+        "count": "5871"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "C G O NEW MARINE LINES",
+        "card_type": "Serving",
+        "count": "7100"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "CBD BELAPUR",
+        "card_type": "Serving",
+        "count": "23545"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "WAKOLA",
+        "card_type": "Pensioner",
+        "count": "3459"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "DEONAR",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "BHANDUP",
+        "card_type": "Pensioner",
+        "count": "4198"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "BHANDUP",
+        "card_type": "Serving",
+        "count": "4584"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "KANDIVALI",
+        "card_type": "Freedom Fighter",
+        "count": "10"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "KANDIVALI",
+        "card_type": "Pensioner",
+        "count": "19570"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "KANDIVALI",
+        "card_type": "Ex MP",
+        "count": "5"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "PAREL ",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "KANJURMARG POWAI",
+        "card_type": "Pensioner",
+        "count": "2891"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "KANJURMARG POWAI",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "SEEPZ",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "SEEPZ",
+        "card_type": "Serving",
+        "count": "1812"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "JUHU",
+        "card_type": "Ex MP",
+        "count": "14"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "THAKURLI",
+        "card_type": "Serving",
+        "count": "2930"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "WADALA",
+        "card_type": "Serving",
+        "count": "3396"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "WADALA",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "KOLIWADA",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "KOLIWADA",
+        "card_type": "Pensioner",
+        "count": "4320"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "CLI SION",
+        "card_type": "Serving",
+        "count": "3244"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "NASHIK",
+        "card_type": "Lok Sabha MP",
+        "count": "1"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "CHANDRAPUR",
+        "card_type": "Serving",
+        "count": "373"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "CIVIL LINES",
+        "card_type": "Pensioner",
+        "count": "2946"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "ITWARI",
+        "card_type": "Freedom Fighter",
+        "count": "12"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "ITWARI",
+        "card_type": "Pensioner",
+        "count": "3766"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "SITABULDI",
+        "card_type": "Serving",
+        "count": "1661"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "SITABULDI",
+        "card_type": "Ex MP",
+        "count": "5"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "WARDHA ROAD",
+        "card_type": "Pensioner",
+        "count": "8547"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "WARDHA ROAD",
+        "card_type": "Ex MP",
+        "count": "11"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "TIKRAPARA RAIPUR",
+        "card_type": "Pensioner",
+        "count": "925"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "DARBHANGA",
+        "card_type": "Serving",
+        "count": "845"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "CHHAPRA",
+        "card_type": "Serving",
+        "count": "559"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "BORING CANAL ROAD",
+        "card_type": "Ex MP",
+        "count": "8"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "SURYANCHAL BHANDRA GHAT",
+        "card_type": "Freedom Fighter",
+        "count": "39"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "KANKAR BAGH",
+        "card_type": "Serving",
+        "count": "7857"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "Salimpur Dumara,Ashiyana Nagar",
+        "card_type": "Serving",
+        "count": "13401"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "BORING CANAL ROAD",
+        "card_type": "Freedom Fighter",
+        "count": "153"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "BUDHA MARG",
+        "card_type": "Pensioner",
+        "count": "6127"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "BUDHA MARG",
+        "card_type": "Freedom Fighter",
+        "count": "292"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Naini",
+        "card_type": "Serving",
+        "count": "2929"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "BARALAL PUR VARANASI",
+        "card_type": "Serving",
+        "count": "4734"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Jawahar Lal Nehru Road",
+        "card_type": "Pensioner",
+        "count": "6160"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "GT ROAD EAST STREET",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "GT ROAD EAST STREET",
+        "card_type": "Serving",
+        "count": "3295"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "PUNE Polyclinic",
+        "card_type": "Pensioner",
+        "count": "2"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "PHULENAGAR, YERWADA",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "RANGE HILLS, KIRKEE",
+        "card_type": "Rajya Sabha MP",
+        "count": "1"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "MUKUND NAGAR",
+        "card_type": "Rajya Sabha MP",
+        "count": "2"
+    },
+    {
+        "cityName": "RANCHI",
+        "wellnessCentreName": "NEW AG COLONY, DORANDA",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "RANCHI",
+        "wellnessCentreName": "KANTA TOLI",
+        "card_type": "Pensioner",
+        "count": "1757"
+    },
+    {
+        "cityName": "RANCHI",
+        "wellnessCentreName": "P and T COLONY LALPUR",
+        "card_type": "Serving",
+        "count": "4189"
+    },
+    {
+        "cityName": "SHILLONG",
+        "wellnessCentreName": "AGARTALA",
+        "card_type": "Serving",
+        "count": "17180"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "COCHIN",
+        "card_type": "Rajya Sabha MP",
+        "count": "3"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "TRIVANDRUM 3",
+        "card_type": "Serving",
+        "count": "3498"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "KANNUR",
+        "card_type": "Pensioner",
+        "count": "2436"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "KANNUR",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "COCHIN",
+        "card_type": "Pensioner",
+        "count": "8773"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "Air India",
+        "card_type": "Pensioner",
+        "count": "5"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "TRIVANDRUM",
+        "card_type": "Serving",
+        "count": "3174"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "NAVRANGPURA",
+        "card_type": "Ex MP",
+        "count": "20"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "ASHRAM ROAD POLICILINIC",
+        "card_type": "Serving",
+        "count": "16"
+    },
+    {
+        "cityName": "AHMEDABAD",
+        "wellnessCentreName": "BOPAL",
+        "card_type": "Serving",
+        "count": "1317"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA SESHADRIPURAM",
+        "card_type": "Freedom Fighter",
+        "count": "39"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA SHIVAJINAGAR",
+        "card_type": "Ex MP",
+        "count": "35"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "Mysuru Wellness center",
+        "card_type": "Pensioner",
+        "count": "3760"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA C. V. RAMAN NAGAR",
+        "card_type": "Serving",
+        "count": "15485"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA GANGENAHALLI",
+        "card_type": "Freedom Fighter",
+        "count": "8"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA DOMLUR",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA KORAMANGALA",
+        "card_type": "Ex MP",
+        "count": "8"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA JAYANAGAR",
+        "card_type": "Serving",
+        "count": "3673"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "KA VIJAYANAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "120"
+    },
+    {
+        "cityName": "BENGALURU",
+        "wellnessCentreName": "HBR",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "BHOPAL",
+        "wellnessCentreName": "VASANT KUNJ BP – 2",
+        "card_type": "Pensioner",
+        "count": "6883"
+    },
+    {
+        "cityName": "BHOPAL",
+        "wellnessCentreName": "INDORE1",
+        "card_type": "Ex MP",
+        "count": "12"
+    },
+    {
+        "cityName": "BHOPAL",
+        "wellnessCentreName": "INDORE1",
+        "card_type": "Serving",
+        "count": "4523"
+    },
+    {
+        "cityName": "BHOPAL",
+        "wellnessCentreName": "INDORE1",
+        "card_type": "Pensioner",
+        "count": "6292"
+    },
+    {
+        "cityName": "BHUBANESHWAR",
+        "wellnessCentreName": "BHUBANESHWAR",
+        "card_type": "Pensioner",
+        "count": "2"
+    },
+    {
+        "cityName": "BHUBANESHWAR",
+        "wellnessCentreName": "OLD AG COLONY",
+        "card_type": "Pensioner",
+        "count": "5194"
+    },
+    {
+        "cityName": "BHUBANESHWAR",
+        "wellnessCentreName": "OLD AG COLONY",
+        "card_type": "Serving",
+        "count": "7178"
+    },
+    {
+        "cityName": "BHUBANESHWAR",
+        "wellnessCentreName": "OLD AG COLONY",
+        "card_type": "Ex MP",
+        "count": "26"
+    },
+    {
+        "cityName": "BHUBANESHWAR",
+        "wellnessCentreName": "KHARAVELA NAGAR",
+        "card_type": "Ex MP",
+        "count": "105"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "CHD Sec 29",
+        "card_type": "Pensioner",
+        "count": "621"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "CHD Sec 29",
+        "card_type": "Serving",
+        "count": "4837"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "JAMMU",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "Air India",
+        "card_type": "Serving",
+        "count": "3"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "Sanat nagar Srinagar",
+        "card_type": "Serving",
+        "count": "5467"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "JALANDHAR",
+        "card_type": "Pensioner",
+        "count": "11558"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "SHIMLA",
+        "card_type": "Serving",
+        "count": "4181"
+    },
+    {
+        "cityName": "CHANDIGARH",
+        "wellnessCentreName": "AMRITSAR",
+        "card_type": "Pensioner",
+        "count": "8707"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "MEENAMBAKKAM",
+        "card_type": "Serving",
+        "count": "7950"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "PERAMBUR",
+        "card_type": "Freedom Fighter",
+        "count": "517"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "PERAMBUR",
+        "card_type": "Pensioner",
+        "count": "5441"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "PERAMBUR",
+        "card_type": "Serving",
+        "count": "4420"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "RAPURAM",
+        "card_type": "Pensioner",
+        "count": "1538"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "RAPURAM",
+        "card_type": "Ex MP",
+        "count": "19"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "PUDUCHERRY",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "ROYAPURAM",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "PUDUCHERRY",
+        "card_type": "Pensioner",
+        "count": "2548"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "TRIPLICANE",
+        "card_type": "Ex MP",
+        "count": "14"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "VEPERY",
+        "card_type": "Pensioner",
+        "count": "1514"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "COIMBATORE",
+        "card_type": "Serving",
+        "count": "2850"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "COIMBATORE",
+        "card_type": "Ex MP",
+        "count": "11"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "ADYAR",
+        "card_type": "Freedom Fighter",
+        "count": "10"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "ADYAR",
+        "card_type": "Serving",
+        "count": "5290"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "GUINDY",
+        "card_type": "Freedom Fighter",
+        "count": "22"
+    },
+    {
+        "cityName": "CHENNAI",
+        "wellnessCentreName": "GUINDY",
+        "card_type": "Ex MP",
+        "count": "37"
+    },
+    {
+        "cityName": "DEHRADUN",
+        "wellnessCentreName": "RAIPUR ROAD",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "DEHRADUN",
+        "wellnessCentreName": "CHAKARATA ROAD",
+        "card_type": "Serving",
+        "count": "4394"
+    },
+    {
+        "cityName": "DEHRADUN",
+        "wellnessCentreName": "CHAKARATA ROAD",
+        "card_type": "Ex MP",
+        "count": "6"
+    },
+    {
+        "cityName": "DEHRADUN",
+        "wellnessCentreName": "CHAKARATA ROAD",
+        "card_type": "Pensioner",
+        "count": "8081"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "G.K.G Krishna Nagar",
+        "card_type": "Jaurnalist",
+        "count": "42"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "G.K.G Krishna Nagar",
+        "card_type": "Pensioner",
+        "count": "6095"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "G.K.G Krishna Nagar",
+        "card_type": "Serving",
+        "count": "11486"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-V",
+        "card_type": "Serving",
+        "count": "12105"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NANGAL RAYA",
+        "card_type": "Serving",
+        "count": "18148"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KINGSWAY CAMP",
+        "card_type": "Pensioner",
+        "count": "12447"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KINGSWAY CAMP",
+        "card_type": "Serving",
+        "count": "41833"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "JANAKPURI-I",
+        "card_type": "Pensioner",
+        "count": "20009"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ASHOK VIHAR",
+        "card_type": "Serving",
+        "count": "6675"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SADIQ NAGAR",
+        "card_type": "Serving",
+        "count": "9572"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PALAM COLONY",
+        "card_type": "Jaurnalist",
+        "count": "41"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PALAM COLONY",
+        "card_type": "Pensioner",
+        "count": "15307"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PALAM COLONY",
+        "card_type": "Serving",
+        "count": "66366"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LAXMI NAGAR",
+        "card_type": "Pensioner",
+        "count": "12467"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-VI",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "TIMAR PUR ",
+        "card_type": "Jaurnalist",
+        "count": "53"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GURUGRAM SECTOR 5",
+        "card_type": "Jaurnalist",
+        "count": "38"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GURUGRAM SECTOR 5",
+        "card_type": "Ex MP",
+        "count": "11"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KALKAJI-II",
+        "card_type": "Pensioner",
+        "count": "3105"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KALI BARI",
+        "card_type": "Serving",
+        "count": "6988"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MAYUR VIHAR TRILOK KUNJ",
+        "card_type": "Jaurnalist",
+        "count": "448"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MAYUR VIHAR TRILOK KUNJ",
+        "card_type": "Pensioner",
+        "count": "11933"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MAYUR VIHAR TRILOK KUNJ",
+        "card_type": "Ex MP",
+        "count": "15"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "CHANDNI CHOWK",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "CHANDNI CHOWK",
+        "card_type": "Jaurnalist",
+        "count": "25"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "CHANDNI CHOWK",
+        "card_type": "Serving",
+        "count": "4423"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PITAMPURA",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SUNDER VIHAR ",
+        "card_type": "Pensioner",
+        "count": "6574"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SUNDER VIHAR ",
+        "card_type": "Serving",
+        "count": "24116"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PRAGATI  VIHAR",
+        "card_type": "Jaurnalist",
+        "count": "8"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "YAMUNA VIHAR",
+        "card_type": "Jaurnalist",
+        "count": "93"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NOIDA ",
+        "card_type": "Freedom Fighter",
+        "count": "9"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ROHINI",
+        "card_type": "Pensioner",
+        "count": "12753"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DILSHAD GARDEN",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ROHINI Sec 16",
+        "card_type": "Freedom Fighter",
+        "count": "11"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ROHINI Sec 16",
+        "card_type": "Jaurnalist",
+        "count": "42"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ROHINI Sec 16",
+        "card_type": "Pensioner",
+        "count": "11160"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SARITA VIHAR",
+        "card_type": "Freedom Fighter",
+        "count": "8"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SARITA VIHAR",
+        "card_type": "Serving",
+        "count": "23615"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VASANT KUNJ",
+        "card_type": "Pensioner",
+        "count": "6334"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GURUGRAM SECTOR 55",
+        "card_type": "Pensioner",
+        "count": "11431"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GURUGRAM SECTOR 55",
+        "card_type": "Serving",
+        "count": "17085"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SHAHIBABAD",
+        "card_type": "Freedom Fighter",
+        "count": "5"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NOIDA SECTOR 82",
+        "card_type": "Jaurnalist",
+        "count": "161"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NOIDA SECTOR 82",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VASANT VIHAR",
+        "card_type": "Jaurnalist",
+        "count": "12"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "INDIRAPURAM",
+        "card_type": "Serving",
+        "count": "19002"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LODHI ROAD II",
+        "card_type": "Jaurnalist",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DWARKA SECTOR 23",
+        "card_type": "Serving",
+        "count": "16476"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PATPARGANJ",
+        "card_type": "Pensioner",
+        "count": "4181"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MAYUR VIHAR PH II",
+        "card_type": "Pensioner",
+        "count": "2014"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MAYUR VIHAR PH II",
+        "card_type": "Serving",
+        "count": "2181"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "Pratap Vihar",
+        "card_type": "Serving",
+        "count": "184"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KIDWAI NAGAR",
+        "card_type": "Ex MP",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SAROJINI NAGAR I",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SAROJINI NAGAR II",
+        "card_type": "Serving",
+        "count": "547"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "LAXMIBAI NAGAR",
+        "card_type": "Serving",
+        "count": "9627"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DEV NAGAR",
+        "card_type": "Pensioner",
+        "count": "3105"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PANDARA ROAD ",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PANDARA ROAD ",
+        "card_type": "Jaurnalist",
+        "count": "13"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PANDARA ROAD ",
+        "card_type": "Pensioner",
+        "count": "2246"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PANDARA ROAD ",
+        "card_type": "Rajya Sabha MP",
+        "count": "53"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NETAJI NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NETAJI NAGAR",
+        "card_type": "Serving",
+        "count": "2686"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GREATER NOIDA ",
+        "card_type": "Jaurnalist",
+        "count": "170"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "GREATER NOIDA ",
+        "card_type": "Ex MP",
+        "count": "9"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KASTURBA NAGAR-I",
+        "card_type": "Jaurnalist",
+        "count": "9"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "TILAK NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PRESIDENTS ESTATE",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NANAK PURA",
+        "card_type": "Pensioner",
+        "count": "2725"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "NANAK PURA",
+        "card_type": "Serving",
+        "count": "6922"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SOUTH AVENUE",
+        "card_type": "Freedom Fighter",
+        "count": "7"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SOUTH AVENUE",
+        "card_type": "Pensioner",
+        "count": "758"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SOUTH AVENUE",
+        "card_type": "Rajya Sabha MP",
+        "count": "115"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "VILLAGE JHARODA KALAN  NAJAFGARH",
+        "card_type": "Jaurnalist",
+        "count": "19"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "TELEGRAPH LANE",
+        "card_type": "Serving",
+        "count": "2254"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "PATEL NAGAR-II(WEST)",
+        "card_type": "Pensioner",
+        "count": "3885"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ANDREWS GANJ",
+        "card_type": "Jaurnalist",
+        "count": "46"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "ANDREWS GANJ",
+        "card_type": "Serving",
+        "count": "9646"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "JUNG PURA",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "MALVIYA NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KALKA  JI - I",
+        "card_type": "Pensioner",
+        "count": "6182"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "KALKA  JI - I",
+        "card_type": "Serving",
+        "count": "11958"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "DR Z.H ROAD",
+        "card_type": "Pensioner",
+        "count": "1628"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SHAHDARA",
+        "card_type": "Jaurnalist",
+        "count": "59"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "SHAHDARA",
+        "card_type": "Pensioner",
+        "count": "9978"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "R K PURAM-III ",
+        "card_type": "Pensioner",
+        "count": "3378"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "CBI COLONY",
+        "card_type": "Pensioner",
+        "count": "270"
+    },
+    {
+        "cityName": "DELHI AND NCR",
+        "wellnessCentreName": "CHITRA GUPTA ROAD",
+        "card_type": "Pensioner",
+        "count": "1839"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 1",
+        "card_type": "Freedom Fighter",
+        "count": "16"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "Gangtok",
+        "card_type": "Pensioner",
+        "count": "71"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "KOHIMA",
+        "card_type": "Pensioner",
+        "count": "46"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "KOHIMA",
+        "card_type": "Serving",
+        "count": "2898"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "Gangtok",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 5",
+        "card_type": "Ex MP",
+        "count": "3"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 4",
+        "card_type": "Freedom Fighter",
+        "count": "4"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 2",
+        "card_type": "Freedom Fighter",
+        "count": "6"
+    },
+    {
+        "cityName": "GUWAHATI",
+        "wellnessCentreName": "GUWAHATI 2",
+        "card_type": "Pensioner",
+        "count": "2523"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "CHARMINAR",
+        "card_type": "Pensioner",
+        "count": "4570"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "CHARMINAR",
+        "card_type": "Serving",
+        "count": "1713"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "KAKATIYA NAGAR",
+        "card_type": "Pensioner",
+        "count": "10878"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "TARNAKA",
+        "card_type": "Serving",
+        "count": "12178"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "TARNAKA",
+        "card_type": "Ex MP",
+        "count": "6"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "HUMAYUN NAGAR",
+        "card_type": "Serving",
+        "count": "6089"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "BEGUMPET",
+        "card_type": "Pensioner",
+        "count": "12531"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "BEGUMPET",
+        "card_type": "Ex MP",
+        "count": "151"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "HIMAYAT NAGAR",
+        "card_type": "Ex MP",
+        "count": "85"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "KACHIGUDA",
+        "card_type": "Ex MP",
+        "count": "6"
+    },
+    {
+        "cityName": "HYDERABAD",
+        "wellnessCentreName": "MALAKPET",
+        "card_type": "Serving",
+        "count": "2983"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Vaidyanathan Nagar",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "JABALPUR",
+        "wellnessCentreName": "Adhartal",
+        "card_type": "Pensioner",
+        "count": "7976"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "AJMER",
+        "card_type": "Serving",
+        "count": "5404"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "CHANDAN MAHAL",
+        "card_type": "Serving",
+        "count": "1800"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "BANI PARK",
+        "card_type": "Lok Sabha MP",
+        "count": "3"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "JYOTI NAGAR",
+        "card_type": "Serving",
+        "count": "6894"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "JYOTI NAGAR",
+        "card_type": "Ex MP",
+        "count": "12"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "MALVIYA NAGAR",
+        "card_type": "Pensioner",
+        "count": "5617"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "Polyclinic A.G. Colony Bajaj Nagar, ",
+        "card_type": "Pensioner",
+        "count": "4"
+    },
+    {
+        "cityName": "JAIPUR",
+        "wellnessCentreName": "Polyclinic A.G. Colony Bajaj Nagar, ",
+        "card_type": "Serving",
+        "count": "11"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "RAKSHA VIHAR",
+        "card_type": "Serving",
+        "count": "11628"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "PANDU NAGAR",
+        "card_type": "Serving",
+        "count": "2788"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "PANDU NAGAR",
+        "card_type": "Ex MP",
+        "count": "7"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "RATAN LAL NAGAR",
+        "card_type": "Serving",
+        "count": "3990"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "RATAN LAL NAGAR",
+        "card_type": "Pensioner",
+        "count": "8967"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "RATAN LAL NAGAR",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "AZAD NAGAR",
+        "card_type": "Serving",
+        "count": "1897"
+    },
+    {
+        "cityName": "KANPUR",
+        "wellnessCentreName": "CIVIL LINES",
+        "card_type": "Pensioner",
+        "count": "5808"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "JALPAIGURI",
+        "card_type": "Serving",
+        "count": "1491"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SALT LAKE  IC BLOCK DISPENSARY",
+        "card_type": "Pensioner",
+        "count": "2610"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "Ishapore",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "DOVER LANE",
+        "card_type": "Pensioner",
+        "count": "7624"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "DOVER LANE",
+        "card_type": "Ex MP",
+        "count": "15"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "NARKELDANGA",
+        "card_type": "Serving",
+        "count": "2900"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SHYAMBAZAR",
+        "card_type": "Ex MP",
+        "count": "19"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "RAJDANGA",
+        "card_type": "Freedom Fighter",
+        "count": "113"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "RAJDANGA",
+        "card_type": "Pensioner",
+        "count": "8654"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "RAJDANGA",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "BHOWANIPUR KALIGHAT",
+        "card_type": "Pensioner",
+        "count": "2828"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "MINT COLONY",
+        "card_type": "Pensioner",
+        "count": "8574"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SALT LAKE ,AF",
+        "card_type": "Pensioner",
+        "count": "4014"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "SALT LAKE ,AF",
+        "card_type": "Serving",
+        "count": "7365"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "AIRPORT",
+        "card_type": "Pensioner",
+        "count": "21386"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "LAKE TOWN",
+        "card_type": "Serving",
+        "count": "4808"
+    },
+    {
+        "cityName": "KOLKATA",
+        "wellnessCentreName": "TOLLYGUNJ",
+        "card_type": "Freedom Fighter",
+        "count": "123"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow3",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow4",
+        "card_type": "Serving",
+        "count": "2946"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow5",
+        "card_type": "Pensioner",
+        "count": "3260"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow5",
+        "card_type": "Serving",
+        "count": "8370"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow5",
+        "card_type": "Ex MP",
+        "count": "10"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "BAREILLY",
+        "card_type": "Serving",
+        "count": "5937"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "GORAKHPUR",
+        "card_type": "Serving",
+        "count": "3184"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "Lucknow6",
+        "card_type": "Lok Sabha MP",
+        "count": "1"
+    },
+    {
+        "cityName": "LUCKNOW",
+        "wellnessCentreName": "GOL Market",
+        "card_type": "Serving",
+        "count": "1281"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "AbuLane Meerut",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": "S K Road Meerut",
+        "card_type": "Pensioner",
+        "count": "3389"
+    },
+    {
+        "cityName": "MEERUT",
+        "wellnessCentreName": " CGHS WC ALIGARH",
+        "card_type": "Pensioner",
+        "count": "1269"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "BOMBOLIM",
+        "card_type": "Serving",
+        "count": "5582"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "BHANDUP",
+        "card_type": "Freedom Fighter",
+        "count": "2"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "MULUND",
+        "card_type": "Freedom Fighter",
+        "count": "7"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "MULUND",
+        "card_type": "Pensioner",
+        "count": "10092"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "MULUND",
+        "card_type": "Ex MP",
+        "count": "13"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "PEDDER ROAD",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "PEDDER ROAD",
+        "card_type": "Ex MP",
+        "count": "8"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "SAHAR,ANDHERI (W)",
+        "card_type": "Pensioner",
+        "count": "1048"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "SAHAR,ANDHERI (W)",
+        "card_type": "Serving",
+        "count": "1539"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "SHEIKH MISTRY, KOLIWADA",
+        "card_type": "Pensioner",
+        "count": "1161"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "BORIVALI",
+        "card_type": "Pensioner",
+        "count": "405"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "NEPEAN SEA ROAD",
+        "card_type": "Serving",
+        "count": "1297"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "JUHU",
+        "card_type": "Freedom Fighter",
+        "count": "16"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "WORLI",
+        "card_type": "Serving",
+        "count": "2911"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "SANTAKRUZ",
+        "card_type": "Ex MP",
+        "count": "5"
+    },
+    {
+        "cityName": "MUMBAI",
+        "wellnessCentreName": "KOLIWADA",
+        "card_type": "Serving",
+        "count": "11182"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "CHANDRAPUR",
+        "card_type": "Freedom Fighter",
+        "count": "1"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "CHANDRAPUR",
+        "card_type": "Pensioner",
+        "count": "2113"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "KATOL ROAD",
+        "card_type": "Freedom Fighter",
+        "count": "3"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "CIVIL LINES",
+        "card_type": "Serving",
+        "count": "2887"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "SEMINARY HILLS",
+        "card_type": "Pensioner",
+        "count": "2599"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "ITWARI",
+        "card_type": "Lok Sabha MP",
+        "count": "2"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "SITABULDI",
+        "card_type": "Freedom Fighter",
+        "count": "13"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "WARDHA ROAD",
+        "card_type": "Freedom Fighter",
+        "count": "18"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "SANKAR DARA",
+        "card_type": "Serving",
+        "count": "2438"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "PANDRI RAIPUR",
+        "card_type": "Ex MP",
+        "count": "6"
+    },
+    {
+        "cityName": "NAGPUR",
+        "wellnessCentreName": "TIKRAPARA RAIPUR",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "DARBHANGA",
+        "card_type": "Pensioner",
+        "count": "172"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "BORING CANAL ROAD",
+        "card_type": "Pensioner",
+        "count": "1740"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "SURYANCHAL BHANDRA GHAT",
+        "card_type": "Pensioner",
+        "count": "875"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "SURYANCHAL BHANDRA GHAT",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "POLYCLINIC BUDH MARG PATNA",
+        "card_type": "Pensioner",
+        "count": "3"
+    },
+    {
+        "cityName": "PATNA",
+        "wellnessCentreName": "BUDHA MARG",
+        "card_type": "Serving",
+        "count": "14095"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "New Katra",
+        "card_type": "Ex MP",
+        "count": "4"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Lahurabir Varanasi",
+        "card_type": "Serving",
+        "count": "2001"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Jawahar Lal Nehru Road",
+        "card_type": "Ex MP",
+        "count": "8"
+    },
+    {
+        "cityName": "PRAYAGRAJ",
+        "wellnessCentreName": "Jawahar Lal Nehru Road",
+        "card_type": "Serving",
+        "count": "5535"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "GST BHAVAN AURANGABAD ",
+        "card_type": "Pensioner",
+        "count": "1426"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "MANGALWAR PETH",
+        "card_type": "Pensioner",
+        "count": "5741"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "PUNE CAMP",
+        "card_type": "Ex MP",
+        "count": "1"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "PUNE 05",
+        "card_type": "Freedom Fighter",
+        "count": "9"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "PUNE 05",
+        "card_type": "Pensioner",
+        "count": "12851"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "RANGE HILLS, KIRKEE",
+        "card_type": "Pensioner",
+        "count": "13544"
+    },
+    {
+        "cityName": "PUNE",
+        "wellnessCentreName": "MUKUND NAGAR",
+        "card_type": "Ex MP",
+        "count": "25"
+    },
+    {
+        "cityName": "RANCHI",
+        "wellnessCentreName": "DHANBAD",
+        "card_type": "Pensioner",
+        "count": "833"
+    },
+    {
+        "cityName": "RANCHI",
+        "wellnessCentreName": "KANTA TOLI",
+        "card_type": "Serving",
+        "count": "2791"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "TRIVANDRUM 3",
+        "card_type": "Ex MP",
+        "count": "30"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "TRIVANDRUM 2",
+        "card_type": "Freedom Fighter",
+        "count": "18"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "CALICUT",
+        "card_type": "Pensioner",
+        "count": "5096"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "TRIVANDRUM 2",
+        "card_type": "Serving",
+        "count": "3770"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "CALICUT",
+        "card_type": "Serving",
+        "count": "740"
+    },
+    {
+        "cityName": "TRIVANDRUM",
+        "wellnessCentreName": "TRIVANDRUM",
+        "card_type": "Lok Sabha MP",
+        "count": "1"
+    }
+]
